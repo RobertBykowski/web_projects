@@ -1,0 +1,1664 @@
+<errorentry>
+	<datetime>2022-03-12 00:54:34</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 08:20:35</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:07:33</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:47:52</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:00</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19..,','''""' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''''""' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:00</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19'OWlgJB<'">RHKNBZ' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OWlgJB<'">RHKNBZ' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:05</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19');SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:05</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19';SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:05</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19'));SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '));SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:05</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19')));SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')));SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:06</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19%');SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:06</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19%'));SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '));SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:06</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19%')));SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')));SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:06</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19%';SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:07</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19') WHERE 9244=9244;SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') WHERE 9244=9244;SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:07</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19' WHERE 7289=7289;SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 7289=7289;SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:07</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19'||(SELECT 'Vhlz' FROM DUAL WHERE 6660=6660;SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:08</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19'||(SELECT 'UhPT' WHERE 5878=5878;SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:08</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19'+(SELECT sPFA WHERE 6123=6123;SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:08</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19'+(SELECT 'GkIs' WHERE 7059=7059;SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:08</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19')) AS CBgw WHERE 3592=3592;SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS CBgw WHERE 3592=3592;SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:08</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19') AS lKIT WHERE 3968=3968;SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS lKIT WHERE 3968=3968;SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:09</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19' IN BOOLEAN MODE);SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BOOLEAN MODE);SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:11</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19');SELECT SLEEP(5)-- OMti' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');SELECT SLEEP(5)-- OMti' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:11</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19';SELECT SLEEP(5)-- OVWv' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT SLEEP(5)-- OVWv' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:11</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19');SELECT SLEEP(5) AND ('GQQE'='GQQE' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');SELECT SLEEP(5) AND ('GQQE'='GQQE' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:11</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19'));SELECT SLEEP(5) AND (('WcGV'='WcGV' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '));SELECT SLEEP(5) AND (('WcGV'='WcGV' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:11</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19')));SELECT SLEEP(5) AND ((('SMsJ'='SMsJ' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')));SELECT SLEEP(5) AND ((('SMsJ'='SMsJ' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:12</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19';SELECT SLEEP(5) AND 'DwOf'='DwOf' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT SLEEP(5) AND 'DwOf'='DwOf' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:12</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19');SELECT SLEEP(5) AND ('COlk' LIKE 'COlk' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');SELECT SLEEP(5) AND ('COlk' LIKE 'COlk' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:12</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19'));SELECT SLEEP(5) AND (('LjWW' LIKE 'LjWW' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '));SELECT SLEEP(5) AND (('LjWW' LIKE 'LjWW' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:12</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19')));SELECT SLEEP(5) AND ((('UrNt' LIKE 'UrNt' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')));SELECT SLEEP(5) AND ((('UrNt' LIKE 'UrNt' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:12</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19';SELECT SLEEP(5) AND 'fXFE' LIKE 'fXFE' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT SLEEP(5) AND 'fXFE' LIKE 'fXFE' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:14</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19%');SELECT SLEEP(5) AND ('%'='' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');SELECT SLEEP(5) AND ('%'='' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:14</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19%'));SELECT SLEEP(5) AND (('%'='' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '));SELECT SLEEP(5) AND (('%'='' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:14</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19%')));SELECT SLEEP(5) AND ((('%'='' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')));SELECT SLEEP(5) AND ((('%'='' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:14</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19%';SELECT SLEEP(5) AND '%'='' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT SLEEP(5) AND '%'='' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:15</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19') WHERE 1128=1128;SELECT SLEEP(5)-- ULan' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') WHERE 1128=1128;SELECT SLEEP(5)-- ULan' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:15</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19' WHERE 4591=4591;SELECT SLEEP(5)-- lnKp' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 4591=4591;SELECT SLEEP(5)-- lnKp' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:16</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19'||(SELECT 'AszJ' FROM DUAL WHERE 8263=8263;SELECT SLEEP(5))||'' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';SELECT SLEEP(5))||'' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:16</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19'||(SELECT 'ZeGZ' WHERE 4480=4480;SELECT SLEEP(5))||'' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';SELECT SLEEP(5))||'' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:16</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19'+(SELECT JSop WHERE 3872=3872;SELECT SLEEP(5))+'' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';SELECT SLEEP(5))+'' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:16</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19'+(SELECT 'ncgW' WHERE 9986=9986;SELECT SLEEP(5))+'' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';SELECT SLEEP(5))+'' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:16</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19')) AS fTJQ WHERE 6929=6929;SELECT SLEEP(5)-- jfmS' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS fTJQ WHERE 6929=6929;SELECT SLEEP(5)-- jfmS' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:17</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19') AS mjmV WHERE 6847=6847;SELECT SLEEP(5)-- dmMe' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS mjmV WHERE 6847=6847;SELECT SLEEP(5)-- dmMe' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:18</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19');(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:18</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19';(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:19</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19'));(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '));(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:19</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19')));(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')));(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:20</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19%');(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:20</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19%'));(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '));(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:20</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19%')));(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')));(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:20</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19%';(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:21</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19') WHERE 6666=6666;(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') WHERE 6666=6666;(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:21</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19' WHERE 2701=2701;(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 2701=2701;(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY i' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:21</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19'||(SELECT 'yfbK' FROM DUAL WHERE 6890=6890;(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:22</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19'||(SELECT 'AWRb' WHERE 2654=2654;(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:22</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19'+(SELECT BrNy WHERE 2460=2460;(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:22</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19'+(SELECT 'MKpp' WHERE 3812=3812;(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:22</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19')) AS xuES WHERE 1825=1825;(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS xuES WHERE 1825=1825;(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:22</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19') AS YDvH WHERE 4070=4070;(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS YDvH WHERE 4070=4070;(SELECT * FROM (SELECT(SLEEP(5)))yWoc)#' AND status=1 ' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:24</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19');(SELECT * FROM (SELECT(SLEEP(5)))ngvj)-- OZFV' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');(SELECT * FROM (SELECT(SLEEP(5)))ngvj)-- OZFV' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:25</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19';(SELECT * FROM (SELECT(SLEEP(5)))ngvj)-- klBz' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(SELECT * FROM (SELECT(SLEEP(5)))ngvj)-- klBz' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:25</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19');(SELECT * FROM (SELECT(SLEEP(5)))ngvj) AND ('KCby'='KCby' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');(SELECT * FROM (SELECT(SLEEP(5)))ngvj) AND ('KCby'='KCby' AND status=1 ORDER B' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:25</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19'));(SELECT * FROM (SELECT(SLEEP(5)))ngvj) AND (('WcqN'='WcqN' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '));(SELECT * FROM (SELECT(SLEEP(5)))ngvj) AND (('WcqN'='WcqN' AND status=1 ORDER' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:25</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19')));(SELECT * FROM (SELECT(SLEEP(5)))ngvj) AND ((('gdWn'='gdWn' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')));(SELECT * FROM (SELECT(SLEEP(5)))ngvj) AND ((('gdWn'='gdWn' AND status=1 ORD' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:25</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19';(SELECT * FROM (SELECT(SLEEP(5)))ngvj) AND 'KxKB'='KxKB' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(SELECT * FROM (SELECT(SLEEP(5)))ngvj) AND 'KxKB'='KxKB' AND status=1 ORDER BY i' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:25</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19');(SELECT * FROM (SELECT(SLEEP(5)))ngvj) AND ('ZVKE' LIKE 'ZVKE' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');(SELECT * FROM (SELECT(SLEEP(5)))ngvj) AND ('ZVKE' LIKE 'ZVKE' AND status=1 OR' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:25</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19'));(SELECT * FROM (SELECT(SLEEP(5)))ngvj) AND (('DjjI' LIKE 'DjjI' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '));(SELECT * FROM (SELECT(SLEEP(5)))ngvj) AND (('DjjI' LIKE 'DjjI' AND status=1 ' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:25</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19')));(SELECT * FROM (SELECT(SLEEP(5)))ngvj) AND ((('Acli' LIKE 'Acli' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')));(SELECT * FROM (SELECT(SLEEP(5)))ngvj) AND ((('Acli' LIKE 'Acli' AND status=' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:26</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19';(SELECT * FROM (SELECT(SLEEP(5)))ngvj) AND 'Oanz' LIKE 'Oanz' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(SELECT * FROM (SELECT(SLEEP(5)))ngvj) AND 'Oanz' LIKE 'Oanz' AND status=1 ORDER' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:27</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19%');(SELECT * FROM (SELECT(SLEEP(5)))ngvj) AND ('%'='' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');(SELECT * FROM (SELECT(SLEEP(5)))ngvj) AND ('%'='' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:28</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19%'));(SELECT * FROM (SELECT(SLEEP(5)))ngvj) AND (('%'='' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '));(SELECT * FROM (SELECT(SLEEP(5)))ngvj) AND (('%'='' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:28</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19%')));(SELECT * FROM (SELECT(SLEEP(5)))ngvj) AND ((('%'='' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')));(SELECT * FROM (SELECT(SLEEP(5)))ngvj) AND ((('%'='' AND status=1 ORDER BY i' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:28</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19%';(SELECT * FROM (SELECT(SLEEP(5)))ngvj) AND '%'='' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(SELECT * FROM (SELECT(SLEEP(5)))ngvj) AND '%'='' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:29</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19') WHERE 1119=1119;(SELECT * FROM (SELECT(SLEEP(5)))ngvj)-- UtDN' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') WHERE 1119=1119;(SELECT * FROM (SELECT(SLEEP(5)))ngvj)-- UtDN' AND status=1 OR' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:29</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19' WHERE 1690=1690;(SELECT * FROM (SELECT(SLEEP(5)))ngvj)-- rapu' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 1690=1690;(SELECT * FROM (SELECT(SLEEP(5)))ngvj)-- rapu' AND status=1 ORDE' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:29</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19'||(SELECT 'szlt' FROM DUAL WHERE 2128=2128;(SELECT * FROM (SELECT(SLEEP(5)))ngvj))||'' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';(SELECT * FROM (SELECT(SLEEP(5)))ngvj))||'' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:30</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19'||(SELECT 'pkPS' WHERE 7382=7382;(SELECT * FROM (SELECT(SLEEP(5)))ngvj))||'' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';(SELECT * FROM (SELECT(SLEEP(5)))ngvj))||'' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:30</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19'+(SELECT dwNg WHERE 6318=6318;(SELECT * FROM (SELECT(SLEEP(5)))ngvj))+'' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';(SELECT * FROM (SELECT(SLEEP(5)))ngvj))+'' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:30</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19'+(SELECT 'SJkF' WHERE 6904=6904;(SELECT * FROM (SELECT(SLEEP(5)))ngvj))+'' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';(SELECT * FROM (SELECT(SLEEP(5)))ngvj))+'' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 09:48:30</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19') AS FJxb WHERE 6808=6808;(SELECT * FROM (SELECT(SLEEP(5)))ngvj)-- EVqc' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS FJxb WHERE 6808=6808;(SELECT * FROM (SELECT(SLEEP(5)))ngvj)-- EVqc' AND sta' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 10:01:38</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 11:33:40</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 11:33:40</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 11:33:40</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 11:33:40</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 11:33:40</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 12:10:57</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 12:18:59</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 12:20:31</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 12:21:28</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 12:41:18</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 13:45:07</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 14:01:30</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 14:01:30</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 14:01:30</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 14:01:30</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 14:01:30</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 14:01:42</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 14:01:42</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 14:01:42</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 14:01:42</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 14:01:42</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 14:01:44</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 14:01:44</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 14:01:44</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 14:01:44</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 14:01:44</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 14:02:11</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 14:03:47</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 14:05:36</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 14:05:36</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 14:05:36</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 14:05:36</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 14:05:36</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 14:05:36</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 14:12:11</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 14:13:06</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:33:46</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:33:51</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:34:46</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:34:51</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:35:31</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:35:37</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:35:45</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:36:02</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:36:02</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:36:02</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:36:02</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:36:02</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:36:07</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:36:07</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:36:07</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:36:07</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:36:07</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:36:17</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:36:23</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:36:32</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:36:32</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:36:38</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:36:38</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:36:48</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:36:53</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:37:03</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:37:08</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:37:18</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:37:23</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:37:33</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:37:38</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:37:48</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:37:53</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:38:03</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:38:09</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:39:35</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:39:35</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:39:35</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:39:35</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:39:35</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:39:40</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:39:40</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:39:40</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:39:40</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:39:40</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:39:50</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:39:55</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:40:05</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 15:40:10</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 17:18:30</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 17:18:30</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 17:18:30</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 17:18:30</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 17:18:30</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 18:32:21</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 19:05:29</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 19:44:57</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 19:56:48</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19."()..')),' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')),' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 19:56:48</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19'zcUDqO<'">IpSGzI' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'zcUDqO<'">IpSGzI' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 19:56:52</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19');SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 19:56:52</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19';SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 19:56:52</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19%';SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 19:57:21</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19")")'),((.' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '),((.' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 19:57:21</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19'llVuXy<'">UJulkK' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'llVuXy<'">UJulkK' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 19:57:25</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19');SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 19:57:25</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19';SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 19:57:25</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19%';SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 20:57:30</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 20:58:13</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 20:58:16</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 21:00:19</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 21:01:11</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 21:01:45</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 21:03:39</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 21:03:52</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 21:03:52</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 21:03:52</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 21:03:52</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 21:03:52</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 21:07:36</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 21:09:11</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 21:09:12</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 21:12:51</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 21:36:26</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 21:37:06</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 22:18:27</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 22:54:06</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 22:56:02</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-03-12 22:56:05</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+

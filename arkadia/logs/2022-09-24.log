@@ -1,0 +1,272 @@
+<errorentry>
+	<datetime>2022-09-24 02:55:19</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.formularz.php</scriptname>
+	<scriptlinenum>781</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 07:18:19</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 08:59:40</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 10:18:26</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 10:25:33</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 10:25:33</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 10:25:33</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 10:25:33</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 10:25:33</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 10:26:46</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 10:51:42</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 12:32:23</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 12:32:44</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 12:37:13</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 13:00:29</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 13:07:35</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 13:07:35</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 13:07:35</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 13:07:35</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 13:07:35</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 13:08:43</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 15:07:59</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 15:08:00</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 15:08:01</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 16:56:58</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 17:51:49</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 19:10:05</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 19:40:32</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 19:53:47</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 19:56:53</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 20:03:38</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 20:17:07</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 20:18:05</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-09-24 20:59:53</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+

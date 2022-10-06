@@ -1,0 +1,8 @@
+<errorentry>
+	<datetime>2020-09-06 08:21:13</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined offset: 8</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+

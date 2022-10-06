@@ -1,0 +1,338 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!--
+ * FCKeditor - The text editor for internet
+ * Copyright (C) 2003-2005 Frederico Caldeira Knabben
+ * 
+ * Licensed under the terms of the GNU Lesser General Public License:
+ * 		http://www.opensource.org/licenses/lgpl-license.php
+ * 
+ * For further information visit:
+ * 		http://www.fckeditor.net/
+ * 
+ * "Support Open Source software. What about a donation today?"
+ * 
+ * File Name: frmresourceslist.html
+ * 	This page shows all resources available in a folder in the File Browser.
+ * 
+ * File Authors:
+ * 		Frederico Caldeira Knabben (fredck@fckeditor.net)
+ *		Kae Verens (kae@verens.com) - context menus, image previews, various janitorial things
+-->
+<html>
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<link href="browser.css" type="text/css" rel="stylesheet">
+	<script type="text/javascript" src="js/common.js"></script>
+	<script type="text/javascript">
+	
+var oListManager = new Object() ;
+
+oListManager.Init=function(){
+	this.Table=document.getElementById('tableFiles') ;
+}
+
+oListManager.Clear=function(){
+	while(this.Table.rows.length>0)this.Table.deleteRow(0);
+}
+oListManager.AddFolder=function(folderName,folderPath){
+	// Create the new row.
+	var oRow = this.Table.insertRow(-1) ;
+
+	// Build the link to view the folder.
+	var sLink = '<a href="#" onclick="OpenFolder(\'' + folderPath + '\');return false;">' ;
+
+	// Add the folder icon cell.
+	var oCell = oRow.insertCell(-1) ;
+	oCell.width = 16 ;
+	oCell.innerHTML = sLink + '<img alt="" src="images/Folder.gif" width="16" height="16" border="0"></a>' ;
+
+	// Add the folder name cell.
+	oCell = oRow.insertCell(-1) ;
+	oCell.noWrap = true ;
+	oCell.colSpan = 2 ;
+	oCell.innerHTML = '&nbsp;' + sLink + folderName + '</a>' ;
+}
+oListManager.AddFile=function(fileName,fileUrl,fileSize,imageData){
+	var oRow = this.Table.insertRow(-1);
+	filedata[linkIds]=[fileName,fileUrl,fileSize,imageData.split('|')];
+	var infoboxEvents=imageData==''?'':'onmouseover="InfoBoxInit(this);" onmouseout="InfoBoxClose(this);"';
+	var sLink='<a href="#" onclick="OpenFile(\''+fileUrl+'\','+linkIds+');return false;" '+infoboxEvents+'>' ;
+	var sLink2='<a href="#" id="link'+linkIds+'" onclick="OpenFile(\''+fileUrl+'\','+linkIds+');return false;" '+infoboxEvents+'>' ;
+	++linkIds;
+	var sIcon=oIcons.GetIcon(fileName),oCell=oRow.insertCell(-1);
+	oCell.width=16;
+	oCell.innerHTML=sLink+'<img alt="" src="images/icons/' + sIcon + '.gif" width="16" height="16" border="0"></a>' ;
+	oCell=oRow.insertCell(-1);
+	oCell.innerHTML='&nbsp;'+sLink2+fileName+'</a>';
+	oCell=oRow.insertCell(-1) ;
+	oCell.noWrap=true;
+	oCell.align='right';
+	oCell.innerHTML='&nbsp;'+fileSize+' KB';
+}
+function AddContextMenuLink(row,href,text,icon){
+	cells=0;
+	if(href=='separator'){
+		cell=row.insertCell(0);
+		cell.colSpan=2;
+		cell.style.borderBottom='1px solid #000';
+		if(browser.isIE)cell.appendChild(document.createTextNode(' '));
+		return;
+	}
+	{ // insert icon here
+		cell=row.insertCell(cells++);
+		cell.style.width='16px';
+		cell.style.background='#efefde';
+		var img=document.createElement('img');
+		img.src='images/icons/'+icon+'.png';
+		cell.appendChild(img);
+	}
+	{ // the link
+		cell=row.insertCell(cells++);
+		var link=document.createElement('a');
+		link.href=href;
+		link.style.display="block";
+		link.appendChild(document.createTextNode(text));
+		cell.appendChild(link);
+	}
+}
+function AddEvent(o,t,f){
+	if(o.addEventListener)o.addEventListener(t,f,false);
+	if(o.attachEvent){
+		o['e'+t+f]=f;
+		o[t+f]=function(){o['e'+t+f](window.event);}
+		o.attachEvent('on'+t,o[t+f]);
+	}
+}
+function Browser(){
+	var ua=navigator.userAgent;
+	this.isFirefox=ua.indexOf('Firefox')>=0;
+	this.isIE=ua.indexOf('MSIE')>=0&&!this.isOpera;
+	this.versionMinor=parseFloat(navigator.appVersion);
+	if(this.isIE)this.versionMinor=parseFloat(ua.substring(ua.indexOf('MSIE')+5));
+	this.versionMajor=parseInt(this.versionMinor);
+}
+function CloseContextMenu(){
+	RemoveSelf(contextmenu);
+	contextmenu=null;
+}
+function ContextMenuInit(){
+	var el=window.attachEvent?document.body:window; // window onclicks attached to body in IE
+	el.oncontextmenu=function(){return false;}
+	el.onclick=function(e){
+		if(contextmenu){
+			var m=getMouseAt(e);
+			if(m.x<contextmenu.offsetLeft||m.x>contextmenu.offsetLeft+contextmenu.offsetWidth
+				|| m.y<contextmenu.offsetTop||m.y>contextmenu.offsetTop+contextmenu.offsetHeight){
+				CloseContextMenu();
+			}
+		}
+	}
+}
+function Delete(url){
+	if(confirm('Czy jesteś pewien, że chces usunąć plik?'))oConnector.SendCommand('DeleteFile','fileToDelete='+encodeURIComponent(url),Refresh);
+	else CloseContextMenu();
+}
+function GetFoldersAndFilesCallBack( fckXml ){
+	if ( oConnector.CheckError( fckXml ) != 0 )
+		return ;
+	// Get the current folder path.
+	var oNode = fckXml.SelectSingleNode( 'Connector/CurrentFolder' ) ;
+	var sCurrentFolderPath	= oNode.attributes.getNamedItem('path').value ;
+	var sCurrentFolderUrl	= oNode.attributes.getNamedItem('url').value ;
+	// Add the Folders.	
+	var oNodes = fckXml.SelectNodes( 'Connector/Folders/Folder' ) ;
+	for ( var i = 0 ; i < oNodes.length ; i++ )
+	{
+		var sFolderName = oNodes[i].attributes.getNamedItem('name').value ;
+		oListManager.AddFolder( sFolderName, sCurrentFolderPath + sFolderName + "/" ) ;
+	}
+	// Add the Files.	
+	var oNodes = fckXml.SelectNodes( 'Connector/Files/File' ) ;
+	for ( var i = 0 ; i < oNodes.length ; i++ )
+	{
+		var sFileName = oNodes[i].attributes.getNamedItem('name').value ;
+		var sFileSize = oNodes[i].attributes.getNamedItem('size').value ;
+		var sImageData=oNodes[i].attributes.getNamedItem('imagedata')?oNodes[i].attributes.getNamedItem('imagedata').value:'';
+		oListManager.AddFile(sFileName,sCurrentFolderUrl+sFileName,sFileSize,sImageData);
+	}
+	UpdateContextEventHandlers();
+}
+function GetPageOffset(el,s) {
+	var n=parseInt(el['offset'+s]),p=el.offsetParent;
+	if(p)n+=GetPageOffset(p,s);
+	return n;
+}
+function GetWindowScrollAt(){
+	if(browser.isIE){
+		if(browser.versionMajor<7)return {x:document.body.scrollLeft,y:document.body.scrollTop};
+		return {x:document.documentElement.scrollLeft,y:document.documentElement.scrollTop};
+	}
+	return {x:window.pageXOffset,y:window.pageYOffset};
+}
+function getMouseAt(e){
+	e=e?e:window.event;
+	var m=GetWindowScrollAt();
+	m.x+=e.clientX;
+	m.y+=e.clientY;
+	return m;
+}
+function InfoBoxInit(el){
+	infoBoxTimeouts[el.id]=setTimeout('InfoBoxOpen("'+el.id+'");',500);
+}
+function InfoBoxClose(el){
+	if(infoBoxTimeouts[el.id]){
+		clearTimeout(infoBoxTimeouts[el.id]);
+		infoBoxTimeouts[el.id]=null;
+	}
+	var num=parseInt(el.id.replace(/link/,''));
+	var el2=document.getElementById('box'+num);
+	RemoveSelf(el2);
+}
+function InfoBoxOpen(id){
+	var num=parseInt(id.replace(/link/,''));
+	var link=document.getElementById(id),data=filedata[num];
+	var x=GetPageOffset(link,'Left')+link.offsetWidth,y=GetPageOffset(link,'Top');
+	var box=document.createElement('div');
+	{ // style the box 
+		box.style.position='absolute';
+		box.style.background='#fff';
+		box.style.border='1px solid #000';
+		box.style.left=x;
+		box.style.top=y;
+	}
+	{ // develop info box
+		var table=document.createElement('table');
+		var row=table.insertRow(0);
+		var cell=row.insertCell(0);
+		{ // draw descriptive cell
+			cell.style.verticalAlign='top';
+			var descs=[0,'width','height',0,0,0,0,'type','caption'],table2=document.createElement('table'),row2,rows2=0;
+			for(j in data[3]){
+				if(descs[j]&&data[3][j]!=''){
+					row2=table2.insertRow(rows2++);
+					row2.insertCell(0).appendChild(document.createTextNode(descs[j]));
+					row2.insertCell(1).appendChild(document.createTextNode(data[3][j]));
+				}
+			}
+			cell.appendChild(table2);
+		}
+		if(data[3][0]=='1'){ // has a thumbnail
+			cell=row.insertCell(1);
+			var img=document.createElement('img');
+			img.src=data[1].replace(/(.*\/)/,'$1_thumbs/')+'?'+refreshes;
+			cell.appendChild(img);
+		}
+		box.appendChild(table);
+	}
+	box.id='box'+num;
+	document.body.appendChild(box);
+}
+function LoadResources( resourceType, folderPath ){
+	oListManager.Clear() ;
+	oConnector.ResourceType = resourceType ;
+	oConnector.CurrentFolder = folderPath
+	oConnector.SendCommand( 'GetFoldersAndFiles', null, GetFoldersAndFilesCallBack ) ;
+}
+function OpenContextMenu(e){
+	CloseContextMenu();
+	{ // variables
+		contextmenu=document.createElement('table');
+		contextmenu.style.emptyCells='show';
+		var row,cell,cells,m=getMouseAt(e),rows=0;
+		var target=e.currentTarget?e.currentTarget:window.event.srcElement;
+		var url=target.onclick.toString().replace(/\n/g,'').replace(/.*\(['"]|['"](,[ 0-9]*|)\).*/g,'').replace(/\/$/,'').replace(/.*\//,'');
+		var num=parseInt(target.id.replace(/link/,''));
+		var data=filedata[num];
+	}
+	{ // style the contextmenu
+		contextmenu.style.position='absolute';
+		contextmenu.style.background='#fff';
+		contextmenu.style.border='1px solid #000';
+		contextmenu.style.left=m.x;
+		contextmenu.style.top=m.y;
+	}
+	{ // add the links
+		AddContextMenuLink(contextmenu.insertRow(rows++),'javascript:Rename("'+url+'")','Zmień nazwę','textfield_rename');
+		AddContextMenuLink(contextmenu.insertRow(rows++),'javascript:Delete("'+url+'")','Usuń','application_delete');
+		if(data&&data[3].length>1){
+			AddContextMenuLink(contextmenu.insertRow(rows++),'separator');
+			AddContextMenuLink(contextmenu.insertRow(rows++),'javascript:Resize("'+url+'",'+num+')','Zmień rozmiar','zoom');
+			AddContextMenuLink(contextmenu.insertRow(rows++),'javascript:Rotate("'+url+'",-1)','Obrót w prawo','arrow_rotate_clockwise');
+			AddContextMenuLink(contextmenu.insertRow(rows++),'javascript:Rotate("'+url+'",1)','Obrót w lewo','arrow_rotate_anticlockwise');
+			AddContextMenuLink(contextmenu.insertRow(rows++),'javascript:ReCaption("'+url+'",'+num+')','Zmień podpis','textfield_rename');
+		}
+	}
+	document.body.appendChild(contextmenu);
+	return false;
+}
+function OpenFolder( folderPath ){
+	// Load the resources list for this folder.
+	window.parent.frames['frmFolders'].LoadFolders( folderPath ) ;
+}
+function OpenFile(fileUrl,num){
+	var data=filedata[num];
+	if(data&&data[3].length>1){
+		window.top.opener.SetUrl(fileUrl,data[3][1],data[3][2],data[3][data[3].length-1])
+	}
+	window.top.opener.SetUrl(fileUrl);
+	window.top.close() ;
+	window.top.opener.focus() ;
+}
+function ReCaption(url,num){
+	var newCaption=prompt('Zmień "'+url+'"\'s opis na: ',filedata[num][3][filedata[num][3].length-1]);
+	if(newCaption&&newCaption!=''&&!/\/|\.\./.test(newCaption))oConnector.SendCommand('RecaptionFile','file='+encodeURIComponent(url)+'&caption='+encodeURIComponent(newCaption),Refresh);
+	else CloseContextMenu();
+}
+function Refresh(){
+	CloseContextMenu();
+	LoadResources(oConnector.ResourceType,oConnector.CurrentFolder);
+	refreshes++;
+}
+function RemoveEvent(o,t,f){
+	if(o.RemoveEventListener)o.RemoveEventListener(t,f,false);
+	if(o.detachEvent){
+		o.detachEvent('on'+t,f);
+		o[t+f]=null;
+	}
+}
+function RemoveSelf(o){
+	if(o)o.parentNode.removeChild(o);
+}
+function Rename(url){
+	var newName=prompt('Zmień nazwę "'+url+'" na?',url);
+	if(newName&&newName!=''&&!/\/|\.\./.test(newName))oConnector.SendCommand('RenameFile','from='+encodeURIComponent(url)+'&to='+encodeURIComponent(newName),Refresh);
+	else CloseContextMenu();
+}
+function Resize(url,num){
+	var newX=parseInt(prompt('Nowa szerokość dla "'+url+'"? (obecnie '+filedata[num][3][1]+' pikseli)',filedata[num][3][1]));
+	if(newX>0){
+		var newY=parseInt(prompt('Nowa wysokośc dla "'+url+'"? (obecnie '+filedata[num][3][2]+' pikseli)',parseInt(filedata[num][3][2]*(newX/filedata[num][3][1]))));
+		if(newY>0)oConnector.SendCommand('ResizeFile','file='+encodeURIComponent(url)+'&x='+newX+'&y='+newY,Refresh);
+	}
+	CloseContextMenu();
+}
+function Rotate(url,angle){
+	oConnector.SendCommand('RotateFile','fileToRotate='+encodeURIComponent(url)+'&angle='+(90*angle),Refresh);
+}
+function UpdateContextEventHandlers(){
+	var els=document.getElementsByTagName('a');
+	for(var i=0;i<els.length;i++){
+		RemoveEvent(els[i],'contextmenu',OpenContextMenu); // just in case
+		AddEvent(els[i],'contextmenu',OpenContextMenu);
+	}
+}
+/* variables */ {
+	var contextmenu=null,infoBoxTimeouts=[],linkIds=0,filedata=[],browser=new Browser(),refreshes=0;
+	window.onload = function(){
+		oListManager.Init() ;
+		window.top.IsLoadedResourcesList = true ;
+	}
+}
+AddEvent(window,'load',ContextMenuInit);
+		</script>
+	</head>
+	<body class="FileArea">
+		<table id="tableFiles" cellSpacing="1" cellPadding="0" width="100%" border="0">
+		</table>
+	</body>
+</html>

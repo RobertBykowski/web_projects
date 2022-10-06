@@ -1,0 +1,184 @@
+<errorentry>
+	<datetime>2022-06-23 00:48:29</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-06-23 03:20:38</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-06-23 03:46:52</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka=''0=A' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0=A' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-06-23 03:47:02</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka=''0=A' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0=A' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-06-23 03:47:19</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index: '0=A</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-06-23 04:57:34</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-06-23 08:53:19</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-06-23 08:53:19</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-06-23 08:54:02</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-06-23 10:37:23</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-06-23 11:10:31</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-06-23 14:10:35</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-06-23 14:20:06</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-06-23 14:35:05</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-06-23 14:44:18</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-06-23 15:13:15</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-06-23 15:26:20</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-06-23 15:32:35</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-06-23 15:57:50</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-06-23 15:58:17</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-06-23 17:46:57</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-06-23 23:02:17</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-06-23 23:17:16</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+

@@ -1,0 +1,848 @@
+<errorentry>
+	<datetime>2022-04-05 00:20:30</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 01:12:34</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>PHP Startup: MySQL server has gone away</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>285</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 01:12:34</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>PHP Startup: Error while reading greeting packet. PID=10936</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>285</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 01:12:34</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>PHP Startup: (HY000/2006): MySQL server has gone away</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>285</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 01:12:34</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>, ## MySQL server has gone away ## 2006</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>297</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 01:12:34</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getConn: no connection BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>263</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 01:12:34</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 01:12:34</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 01:12:34</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>PHP Startup: Couldn't fetch bazaSql</errormsg>
+	<scriptname>/klasy/class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 01:12:34</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>PHP Startup: Couldn't fetch bazaSql</errormsg>
+	<scriptname>/klasy/class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 01:12:34</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>PHP Startup: Couldn't fetch bazaSql</errormsg>
+	<scriptname>/klasy/class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 01:12:34</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>PHP Startup: Couldn't fetch bazaSql</errormsg>
+	<scriptname>/klasy/class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 01:12:34</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getConn: no connection BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>263</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 01:12:34</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 01:12:34</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 01:12:34</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>PHP Startup: Couldn't fetch bazaSql</errormsg>
+	<scriptname>/klasy/class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 01:12:34</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getConn: no connection BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>263</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 01:12:34</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 01:12:34</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 01:12:34</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: zap</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2284</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 01:12:34</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 01:12:34</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>PHP Startup: Couldn't fetch bazaSql</errormsg>
+	<scriptname>/klasy/class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 01:12:34</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getConn: no connection BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>263</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 01:12:34</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 01:12:34</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 01:12:34</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getConn: no connection BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>263</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 01:12:34</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 01:12:34</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 04:59:06</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 06:14:30</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 07:27:15</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 08:18:50</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 08:28:23</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 08:39:47</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 10:04:13</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 10:05:10</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 10:05:24</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 10:07:20</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 11:07:50</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 11:42:14</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 13:16:04</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 13:16:04</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 13:16:04</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 13:16:04</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 13:16:04</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 13:19:30</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 13:19:30</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 13:19:30</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 13:19:30</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 13:19:30</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 13:19:30</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 13:19:30</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 13:19:30</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 13:19:30</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 13:19:30</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 13:43:18</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 15:21:01</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 15:24:47</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 15:26:07</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 16:32:20</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 17:10:17</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 17:10:17</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 17:10:17</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 17:10:17</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 17:10:17</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 17:22:22</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 17:24:41</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 17:24:41</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 17:24:41</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 17:24:41</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 17:24:41</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 17:58:19</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 17:58:23</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 17:59:15</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 18:37:00</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 18:38:15</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 18:49:53</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 19:30:43</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 19:32:35</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 19:34:17</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 19:44:26</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 19:44:26</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 19:44:45</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 19:51:18</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 19:51:48</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 19:52:20</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 20:01:15</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 20:01:15</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 20:01:15</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 20:05:42</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 20:05:42</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 20:05:42</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 20:05:42</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 20:05:43</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 20:05:43</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 20:07:16</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 20:20:53</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 20:22:09</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 20:22:31</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 20:22:42</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 20:23:40</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 20:24:02</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 20:24:53</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 20:38:01</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 20:38:26</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-04-05 20:52:53</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+

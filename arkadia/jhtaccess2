@@ -1,0 +1,40 @@
+DirectoryIndex index.html index.htm index.html.var index.php
+RewriteEngine On
+Options -Indexes
+
+#przekierowanie wszystkiego na jedna domene
+#RewriteCond %{HTTP_HOST} !^jw\-webdev\.info [NC]
+#RewriteRule ^(.*)$ http://jw\-webdev\.info/$1 [L,QSA,R=301]
+
+#RewriteCond %{QUERY_STRING} ^options\= [NC]
+#RewriteRule ^(index\.php)$ http:\/\/onet.pl? [L,NC,R=301]
+
+
+# artykuly
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(([0-9a-z\-_]+),)?([0-9]+)(,s([0-9]+))?(,l([0-9]+))?\.html$ index\.php?id_art=$3&lang=$7&podstrona=$5 [L,NC,QSA]
+
+# sklep kat
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(([0-9a-z\-_]+),)?k([0-9]+)(,s([0-9]+))?(,l([0-9]+))?\.html$ index\.php?akcja=sklep_zobacz&id_kat=$3&lang=$7&podstrona=$5 [L,NC,QSA]
+
+# sklep produkt
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(([0-9a-z\-_]+),)?p([0-9]+)(,s([0-9]+))?(,l([0-9]+))?\.html$ index\.php?akcja=sklep_produkt&id_produkt=$3&lang=$7&podstrona=$5 [L,NC,QSA]
+
+# akcje
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([0-9a-z\-_]+),a(,s([0-9]+))?(,l([0-9]+))?\.html$ index\.php?akcja=$1&lang=$5&podstrona=$3 [L,NC,QSA]
+
+
+# AddHandler x-httpd-php5 .php
+# na serwerze nazwa.pl
+# AddType application/x-httpd-php5 .php
+
+# home.pl
+:Location /*.(php|php4|php5)
+Use php5

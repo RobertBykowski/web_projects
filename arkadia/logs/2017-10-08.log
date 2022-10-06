@@ -1,0 +1,24 @@
+<errorentry>
+	<datetime>2017-10-08 21:59:15</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index: 8</errormsg>
+	<scriptname>/arkadia/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2017-10-08 21:59:24</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index: 9</errormsg>
+	<scriptname>/arkadia/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2017-10-08 23:43:27</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index: 10</errormsg>
+	<scriptname>/arkadia/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+

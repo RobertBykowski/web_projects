@@ -1,0 +1,16 @@
+<errorentry>
+	<datetime>2018-07-15 13:22:29</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index:  10</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2018-07-15 20:32:46</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index:  9</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+

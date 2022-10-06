@@ -1,0 +1,16 @@
+<errorentry>
+	<datetime>2010-01-10 11:23:27</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index:  HTTP_REFERER</errormsg>
+	<scriptname>E:\waldek\htdocs\admin5\mod\u\konfig_inc.php</scriptname>
+	<scriptlinenum>9</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-01-10 11:32:23</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index:  HTTP_REFERER</errormsg>
+	<scriptname>E:\waldek\htdocs\admin5\mod\u\konfig_inc.php</scriptname>
+	<scriptlinenum>9</scriptlinenum>
+</errorentry>
+

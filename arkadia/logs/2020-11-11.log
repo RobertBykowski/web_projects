@@ -1,0 +1,200 @@
+<errorentry>
+	<datetime>2020-11-11 04:46:03</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>PHP Startup: MySQL server has gone away</errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>285</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-11-11 04:46:03</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>PHP Startup: Error while reading greeting packet. PID=6933</errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>285</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-11-11 04:46:03</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>PHP Startup: (HY000/2006): MySQL server has gone away</errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>285</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-11-11 04:46:03</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>, ## MySQL server has gone away ## 2006</errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>297</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-11-11 04:46:03</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getConn: no connection BazaSql class</errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>263</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-11-11 04:46:03</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-11-11 04:46:03</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-11-11 04:46:03</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>PHP Startup: Couldn't fetch bazaSql</errormsg>
+	<scriptname>/arkadia/klasy/class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-11-11 04:46:03</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>PHP Startup: Couldn't fetch bazaSql</errormsg>
+	<scriptname>/arkadia/klasy/class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-11-11 04:46:03</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>PHP Startup: Couldn't fetch bazaSql</errormsg>
+	<scriptname>/arkadia/klasy/class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-11-11 04:46:03</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>PHP Startup: Couldn't fetch bazaSql</errormsg>
+	<scriptname>/arkadia/klasy/class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-11-11 04:46:03</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getConn: no connection BazaSql class</errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>263</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-11-11 04:46:03</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-11-11 04:46:03</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-11-11 04:46:03</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>PHP Startup: Couldn't fetch bazaSql</errormsg>
+	<scriptname>/arkadia/klasy/class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-11-11 04:46:03</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getConn: no connection BazaSql class</errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>263</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-11-11 04:46:03</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-11-11 04:46:03</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-11-11 04:46:03</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getConn: no connection BazaSql class</errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>263</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-11-11 04:46:03</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-11-11 04:46:03</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-11-11 04:46:03</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getConn: no connection BazaSql class</errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>263</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-11-11 04:46:03</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-11-11 04:46:03</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-11-11 12:31:33</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined offset: 8</errormsg>
+	<scriptname>/arkadia/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+

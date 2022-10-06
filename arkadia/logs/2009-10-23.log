@@ -1,0 +1,8 @@
+<errorentry>
+	<datetime>2009-10-23 17:17:15</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>Missing argument 2 for konf::setPlikiHeader(), called in E:\waldek\htdocs\admin5\klasy\class.galeriaadmin.php on line 897 and defined</errormsg>
+	<scriptname>E:\waldek\htdocs\admin5\klasy\class.konf.php</scriptname>
+	<scriptlinenum>252</scriptlinenum>
+</errorentry>
+

@@ -1,0 +1,96 @@
+<errorentry>
+	<datetime>2021-05-28 18:45:01</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index: 12121121121212.1</errormsg>
+	<scriptname>/arkadia/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-28 18:45:03</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index: 1 and 1=1</errormsg>
+	<scriptname>/arkadia/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-28 18:45:03</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index: 1 and 1>1</errormsg>
+	<scriptname>/arkadia/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-28 18:45:03</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index: 1' and 'x'='x</errormsg>
+	<scriptname>/arkadia/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-28 18:45:03</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index: 1' and 'x'='y</errormsg>
+	<scriptname>/arkadia/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-28 18:45:03</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index: 1" and "x"="x</errormsg>
+	<scriptname>/arkadia/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-28 18:45:04</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index: 1" and "x"="y</errormsg>
+	<scriptname>/arkadia/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-28 18:45:04</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index: 1 AnD SLeeP(3)</errormsg>
+	<scriptname>/arkadia/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-28 18:45:04</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index: 1&&SlEEp(3)</errormsg>
+	<scriptname>/arkadia/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-28 18:45:05</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index: 1' AnD sLeep(3) ANd '1</errormsg>
+	<scriptname>/arkadia/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-28 18:45:54</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15' AND SLEEP(3) oRDeR BY 40 #' AND status=1 ORDER BY id, ## Unknown column '40' in 'order clause' ## </errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-05-28 18:46:14</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15' AND SLEEP(3) oRDeR BY 40 #' AND status=1 ORDER BY id, ## Unknown column '40' in 'order clause' ## </errormsg>
+	<scriptname>/arkadia/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+

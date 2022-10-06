@@ -1,0 +1,1232 @@
+<errorentry>
+	<datetime>2021-11-08 01:11:35</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 01:18:26</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:18:59</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19)')'."(,."' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')'."(,."' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:18:59</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19'aWbivr<'">AKSDFM' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'aWbivr<'">AKSDFM' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:19:06</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19') AND 8687=1147 AND ('yIqP'='yIqP' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND 8687=1147 AND ('yIqP'='yIqP' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:19:06</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19') AND 1137=1137 AND ('HOCj'='HOCj' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND 1137=1137 AND ('HOCj'='HOCj' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:19:08</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19' AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a7a6a71,(SELECT (ELT(4053=4053,1))),0x7178766271,0x78))x)) AND 'OqGa'='OqGa' AND status=1 ORDER BY id, ## DOUBLE value is out of range in 'exp(~((select `x`.`CONCAT(0x716a7a6a71,(SELECT (ELT(4053=4053,1))),0x7178766271,0x78)` from (select concat(0x716a7a6a71,elt((4053 = 4053),1),0x7178766271,0x78) AS `CONCAT(0x716a7a6a71,(SELECT (ELT(4053=4053,1))),0x7178766271,0x78)`) `x`)))' ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:19:08</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19' OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a7a6a71,(SELECT (ELT(6025=6025,1))),0x7178766271,0x78))x)) AND 'TVUy'='TVUy' AND status=1 ORDER BY id, ## DOUBLE value is out of range in 'exp(~((select `x`.`CONCAT(0x716a7a6a71,(SELECT (ELT(6025=6025,1))),0x7178766271,0x78)` from (select concat(0x716a7a6a71,elt((6025 = 6025),1),0x7178766271,0x78) AS `CONCAT(0x716a7a6a71,(SELECT (ELT(6025=6025,1))),0x7178766271,0x78)`) `x`)))' ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:19:10</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19';SELECT SLEEP(5)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT SLEEP(5)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:19:11</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19';SELECT SLEEP(5) AND 'tBKp'='tBKp' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT SLEEP(5) AND 'tBKp'='tBKp' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:19:11</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19';(SELECT * FROM (SELECT(SLEEP(5)))obIc)#' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(SELECT * FROM (SELECT(SLEEP(5)))obIc)#' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:19:11</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19';(SELECT * FROM (SELECT(SLEEP(5)))FMul) AND 'lwSH'='lwSH' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(SELECT * FROM (SELECT(SLEEP(5)))FMul) AND 'lwSH'='lwSH' AND status=1 ORDER BY i' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:19:36</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19' ORDER BY 8126-- nnqC' AND status=1 ORDER BY id, ## Unknown column '8126' in 'order clause' ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:19:38</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19' ORDER BY 40-- SyHZ' AND status=1 ORDER BY id, ## Unknown column '40' in 'order clause' ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:22</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-8148' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:22</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-8462' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:22</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-5828' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:23</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-3145' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:23</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-9498' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:24</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-2195' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:24</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-2038' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:25</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-8909' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:25</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-9255' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:26</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-9463' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:26</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-1941' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:27</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-3696' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:27</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-2123' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:28</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-2513' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:28</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-2982' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:29</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-1467' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:29</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-9126' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:30</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-5780' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:31</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-7027' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:45</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-6843' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:46</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-4880' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:46</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-9589' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:47</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-8401' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:47</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-7022' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:48</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-2303' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:48</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-8733' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:49</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-1245' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:50</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-5008' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:50</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-9760' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:51</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-5157' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:51</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-4574' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:52</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-9677' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:53</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-1302' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:53</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-4160' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:53</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-9949' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:54</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-6801' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:54</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-7283' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:55</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-2058' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:55</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-8802' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:56</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-1466' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:57</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-6083' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:57</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-5900' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:58</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-5319' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:58</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-8749' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:59</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-8755' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:20:59</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-7159' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:00</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-4540' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:01</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-3107' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:01</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-1066' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:02</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-7957' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:02</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-2165' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:03</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-9978' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:04</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-8763' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:04</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-9755' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:05</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-8911' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:05</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-3578' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:06</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-2902' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:06</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-6308' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:07</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-1582' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:08</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-9487' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:08</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-8774' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:09</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-1208' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:09</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-6152' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:10</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-9162' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:10</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-5904' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:11</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-3139' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:12</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-4873' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:12</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-1305' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:13</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-7298' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:13</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-8394' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:13</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-9092' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:14</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-8851' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:15</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-7915' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:15</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-3493' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:16</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-7251' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:16</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-1899' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:17</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-6263' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:18</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-9104' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:18</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='-9990' UNION ALL SELECT 58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58#' AND status=1 ORDER BY id, ## The used SELECT statements have a different number of columns ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 04:21:21</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19' AND 100 89 AND 'UNPW'='UNPW' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '89 AND 'UNPW'='UNPW' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 06:22:38</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 06:51:08</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 08:16:29</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 08:16:29</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 08:16:29</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 08:16:29</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 08:16:29</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 08:58:46</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 09:15:50</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 09:53:37</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 10:02:58</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 10:24:51</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 11:21:56</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 11:47:38</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 13:28:10</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 14:11:30</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19'',,'",)((' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '",)((' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 14:11:30</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19'GDfKeK<'">ENQkgz' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'GDfKeK<'">ENQkgz' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 14:11:52</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19') AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a7a6a71,(SELECT (ELT(7073=7073,1))),0x7178766271,0x78))x)) AND ('uPDK'='uPDK' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a7a6a71,(SELECT (ELT(7073=7073,1))' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 14:11:53</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19' AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a7a6a71,(SELECT (ELT(7073=7073,1))),0x7178766271,0x78))x)) AND 'WBMb'='WBMb' AND status=1 ORDER BY id, ## DOUBLE value is out of range in 'exp(~((select `x`.`CONCAT(0x716a7a6a71,(SELECT (ELT(7073=7073,1))),0x7178766271,0x78)` from (select concat(0x716a7a6a71,elt((7073 = 7073),1),0x7178766271,0x78) AS `CONCAT(0x716a7a6a71,(SELECT (ELT(7073=7073,1))),0x7178766271,0x78)`) `x`)))' ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 14:11:53</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19') AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a7a6a71,(SELECT (ELT(7073=7073,1))),0x7178766271,0x78))x)) AND ('fOjD' LIKE 'fOjD' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a7a6a71,(SELECT (ELT(7073=7073,1))' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 14:11:54</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19' AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a7a6a71,(SELECT (ELT(7073=7073,1))),0x7178766271,0x78))x)) AND 'iwvS' LIKE 'iwvS' AND status=1 ORDER BY id, ## DOUBLE value is out of range in 'exp(~((select `x`.`CONCAT(0x716a7a6a71,(SELECT (ELT(7073=7073,1))),0x7178766271,0x78)` from (select concat(0x716a7a6a71,elt((7073 = 7073),1),0x7178766271,0x78) AS `CONCAT(0x716a7a6a71,(SELECT (ELT(7073=7073,1))),0x7178766271,0x78)`) `x`)))' ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 14:12:03</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19') OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a7a6a71,(SELECT (ELT(2440=2440,1))),0x7178766271,0x78))x)) AND ('NzxU'='NzxU' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a7a6a71,(SELECT (ELT(2440=2440,1)))' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 14:12:04</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19' OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a7a6a71,(SELECT (ELT(2440=2440,1))),0x7178766271,0x78))x)) AND 'UObv'='UObv' AND status=1 ORDER BY id, ## DOUBLE value is out of range in 'exp(~((select `x`.`CONCAT(0x716a7a6a71,(SELECT (ELT(2440=2440,1))),0x7178766271,0x78)` from (select concat(0x716a7a6a71,elt((2440 = 2440),1),0x7178766271,0x78) AS `CONCAT(0x716a7a6a71,(SELECT (ELT(2440=2440,1))),0x7178766271,0x78)`) `x`)))' ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 14:12:04</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19') OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a7a6a71,(SELECT (ELT(2440=2440,1))),0x7178766271,0x78))x)) AND ('RmOf' LIKE 'RmOf' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a7a6a71,(SELECT (ELT(2440=2440,1)))' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 14:12:05</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19' OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a7a6a71,(SELECT (ELT(2440=2440,1))),0x7178766271,0x78))x)) AND 'qufv' LIKE 'qufv' AND status=1 ORDER BY id, ## DOUBLE value is out of range in 'exp(~((select `x`.`CONCAT(0x716a7a6a71,(SELECT (ELT(2440=2440,1))),0x7178766271,0x78)` from (select concat(0x716a7a6a71,elt((2440 = 2440),1),0x7178766271,0x78) AS `CONCAT(0x716a7a6a71,(SELECT (ELT(2440=2440,1))),0x7178766271,0x78)`) `x`)))' ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 14:13:48</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19') ORDER BY 1-- VmPD' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY 1-- VmPD' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 14:13:51</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19' ORDER BY 9744-- oySo' AND status=1 ORDER BY id, ## Unknown column '9744' in 'order clause' ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 14:13:53</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19' ORDER BY 40-- Ewno' AND status=1 ORDER BY id, ## Unknown column '40' in 'order clause' ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 14:53:28</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 15:28:21</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 16:47:47</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 17:04:30</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 17:05:15</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 17:08:46</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 17:10:14</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 17:11:04</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 17:11:04</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 17:11:04</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 17:11:04</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 17:11:04</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 17:11:18</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 17:11:18</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 17:11:18</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 17:11:18</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 17:11:18</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 17:11:24</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 17:11:57</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 17:12:12</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 18:06:08</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 18:11:36</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 18:11:36</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 18:11:36</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 18:11:36</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 18:11:36</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/klasy/class.nawig.php</scriptname>
+	<scriptlinenum>142</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 18:50:27</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 18:51:31</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 18:51:56</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 21:55:18</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 22:04:15</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2021-11-08 22:47:49</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>A non-numeric value encountered</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>247</scriptlinenum>
+</errorentry>
+

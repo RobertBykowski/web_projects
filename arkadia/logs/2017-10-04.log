@@ -1,0 +1,16 @@
+<errorentry>
+	<datetime>2017-10-04 01:40:52</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined offset: 9</errormsg>
+	<scriptname>/arkadia/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2017-10-04 01:42:10</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined offset: 10</errormsg>
+	<scriptname>/arkadia/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+

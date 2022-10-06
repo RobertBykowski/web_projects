@@ -1,0 +1,52 @@
+.ac_input {
+	width: 250px;
+}
+.ac_results {
+	padding: 0px;
+	height:250px;
+	width:250px;
+	overflow: hidden;	
+	overflow-y:auto;		
+	text-align:left;
+}
+
+.ac_results ul {
+	display:block;
+	list-style-position: outside;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.ac_results iframe {
+	display:none;/*sorry for IE5*/
+	display/**/:block;/*sorry for IE5*/
+	position:absolute;
+	top:0;
+	left:0;
+	z-index:-1;
+	filter:mask();
+	width:3000px;
+	height:3000px;
+}
+
+.ac_results li {
+	margin: 0px;
+	padding: 5px;
+	padding-left:7px;
+	border-bottom:1px solid #cccccc;
+	border-left:1px solid #cccccc;	
+	border-right:1px solid #cccccc;	
+	background-color: #f4f0f0;
+	cursor: pointer;
+	display: block;
+	font-size: 12px;
+	overflow: hidden;
+}
+.ac_loading {
+	background : url('../grafika/indicator.gif') right center no-repeat;
+}
+.ac_over {
+	background-color: #fcfcdc;
+	color: #000000;
+}

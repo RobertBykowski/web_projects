@@ -1,0 +1,16 @@
+edytor\editor\images\smiley
+-dodanie katalogu "default" z wlasnymi emotikonami
+
+edytor\editor\dialog\fck_link.html
+-dodanie name do pol width, height itp
+
+editor\skins
+-wywalic podkatalogi oprocz "silver"
+
+edytor\fckeditor.php i inne php
+-dodanie spr include
+
+-konfiguracja js
+
+-katalog /filemanager/
+(zmieniona przebudowana stara wersja);

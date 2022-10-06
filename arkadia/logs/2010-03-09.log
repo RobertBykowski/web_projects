@@ -1,0 +1,1240 @@
+<errorentry>
+	<datetime>2010-03-09 12:11:41</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>mysqli::connect() [<a href='mysqli.connect'>mysqli.connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES)</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>285</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:11:41</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>, ## Access denied for user 'root'@'localhost' (using password: YES) ## 1045</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>297</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:11:41</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getConn: no connection BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>263</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:11:41</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:11:41</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:11:41</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch bazaSql</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:11:41</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch bazaSql</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:11:41</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch bazaSql</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:11:41</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch bazaSql</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:11:41</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch bazaSql</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:11:41</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getConn: no connection BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>263</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:11:41</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:11:41</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:11:41</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getConn: no connection BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>263</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:11:41</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:11:41</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:11:41</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch bazaSql</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:11:41</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getConn: no connection BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>263</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:11:41</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:11:41</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:11:41</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: zap</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2270</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:11:41</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:11:41</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch bazaSql</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:11:41</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getConn: no connection BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>263</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:11:41</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:11:41</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:11:41</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getConn: no connection BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>263</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:11:41</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:11:41</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:17:56</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>mysqli::connect() [<a href='mysqli.connect'>mysqli.connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES)</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>285</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:17:56</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>, ## Access denied for user 'root'@'localhost' (using password: YES) ## 1045</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>297</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:17:56</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getConn: no connection BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>263</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:17:56</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:17:56</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:17:56</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch bazaSql</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:17:56</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch bazaSql</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:17:56</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch bazaSql</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:17:56</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch bazaSql</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:17:56</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch bazaSql</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:17:56</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getConn: no connection BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>263</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:17:56</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:17:56</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:17:56</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getConn: no connection BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>263</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:17:56</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:17:56</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:17:56</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch bazaSql</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:17:56</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getConn: no connection BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>263</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:17:56</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:17:56</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:17:56</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: zap</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2270</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:17:56</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:17:56</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch bazaSql</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:17:56</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getConn: no connection BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>263</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:17:56</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:17:56</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:17:56</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getConn: no connection BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>263</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:17:56</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:17:56</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:19:50</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_konfig WHERE (lang='1' OR lang=0) AND wartosc!='' ORDER BY lang, ## Table 'arkadia.arkadia_konfig' doesn't exist ## </errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:19:50</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT r.*, (RAND()*r.udzial) AS udzial FROM arkadia_rotator r WHERE r.status=1  AND r.id_typ IN('3') AND (r.data_start='0000-00-00 00:00:00' OR r.data_start<=NOW() ) AND (r.data_stop='0000-00-00 00:00:00' OR r.data_stop>=NOW()) AND (r.img!=0 OR r.link!='') AND (r.czy_licznik=0 OR (r.czy_licznik=1 AND (r.licznik_limit=0 OR r.licznik_limit>r.licznik))) AND (r.czy_klik=0 OR (r.czy_klik=1 AND (r.klik_limit=0 OR r.klik_limit>r.klik))) AND (r.lang=0 OR r.lang='1')  ORDER BY r.priorytet DESC, r.udzial DESC, RAND() LIMIT 0,1, ## Table 'arkadia.arkadia_rotator' doesn't exist ## </errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:19:50</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT id, id_matka, tytul, tytul_menu, link, link_okno, idtf_link FROM arkadia_art WHERE id_d=1 AND poziom<2 AND typ!=3 AND menu_nie=0 AND lang='1'  AND status=1 AND (data_start<=NOW() OR data_start='0000-00-00 00:00:00') AND (data_stop>=NOW() OR data_stop='0000-00-00 00:00:00') ORDER BY id_matka, nr_poz,id DESC, ## Table 'arkadia.arkadia_art' doesn't exist ## </errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:19:50</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art WHERE idtf='r_left'  AND lang='1' AND status=1 AND (data_start<=NOW() OR data_start='0000-00-00 00:00:00') AND (data_stop>=NOW() OR data_stop='0000-00-00 00:00:00'), ## Table 'arkadia.arkadia_art' doesn't exist ## </errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:19:50</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: zap</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2270</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:19:50</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:19:50</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art WHERE idtf='r_right'  AND lang='1' AND status=1 AND (data_start<=NOW() OR data_start='0000-00-00 00:00:00') AND (data_stop>=NOW() OR data_stop='0000-00-00 00:00:00'), ## Table 'arkadia.arkadia_art' doesn't exist ## </errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:19:50</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT id, id_matka, tytul, tytul_menu, link, link_okno, idtf_link FROM arkadia_art WHERE id_d=1 AND poziom<2 AND typ!=3 AND menu_nie=0 AND lang='1'  AND status=1 AND (data_start<=NOW() OR data_start='0000-00-00 00:00:00') AND (data_stop>=NOW() OR data_stop='0000-00-00 00:00:00') ORDER BY id_matka, nr_poz,id DESC, ## Table 'arkadia.arkadia_art' doesn't exist ## </errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:21:21</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_konfig WHERE (lang='1' OR lang=0) AND wartosc!='' ORDER BY lang, ## Table 'arkadia.arkadia_konfig' doesn't exist ## </errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:21:21</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT r.*, (RAND()*r.udzial) AS udzial FROM arkadia_rotator r WHERE r.status=1  AND r.id_typ IN('3') AND (r.data_start='0000-00-00 00:00:00' OR r.data_start<=NOW() ) AND (r.data_stop='0000-00-00 00:00:00' OR r.data_stop>=NOW()) AND (r.img!=0 OR r.link!='') AND (r.czy_licznik=0 OR (r.czy_licznik=1 AND (r.licznik_limit=0 OR r.licznik_limit>r.licznik))) AND (r.czy_klik=0 OR (r.czy_klik=1 AND (r.klik_limit=0 OR r.klik_limit>r.klik))) AND (r.lang=0 OR r.lang='1')  ORDER BY r.priorytet DESC, r.udzial DESC, RAND() LIMIT 0,1, ## Table 'arkadia.arkadia_rotator' doesn't exist ## </errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:21:21</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT id, id_matka, tytul, tytul_menu, link, link_okno, idtf_link FROM arkadia_art WHERE id_d=1 AND poziom<2 AND typ!=3 AND menu_nie=0 AND lang='1'  AND status=1 AND (data_start<=NOW() OR data_start='0000-00-00 00:00:00') AND (data_stop>=NOW() OR data_stop='0000-00-00 00:00:00') ORDER BY id_matka, nr_poz,id DESC, ## Table 'arkadia.arkadia_art' doesn't exist ## </errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:21:21</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art WHERE idtf='r_left'  AND lang='1' AND status=1 AND (data_start<=NOW() OR data_start='0000-00-00 00:00:00') AND (data_stop>=NOW() OR data_stop='0000-00-00 00:00:00'), ## Table 'arkadia.arkadia_art' doesn't exist ## </errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:21:21</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: zap</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2270</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:21:21</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:21:21</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art WHERE idtf='r_right'  AND lang='1' AND status=1 AND (data_start<=NOW() OR data_start='0000-00-00 00:00:00') AND (data_stop>=NOW() OR data_stop='0000-00-00 00:00:00'), ## Table 'arkadia.arkadia_art' doesn't exist ## </errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:21:21</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT id, id_matka, tytul, tytul_menu, link, link_okno, idtf_link FROM arkadia_art WHERE id_d=1 AND poziom<2 AND typ!=3 AND menu_nie=0 AND lang='1'  AND status=1 AND (data_start<=NOW() OR data_start='0000-00-00 00:00:00') AND (data_stop>=NOW() OR data_stop='0000-00-00 00:00:00') ORDER BY id_matka, nr_poz,id DESC, ## Table 'arkadia.arkadia_art' doesn't exist ## </errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:22:22</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_konfig WHERE (lang='1' OR lang=0) AND wartosc!='' ORDER BY lang, ## Table 'arkadia.arkadia_konfig' doesn't exist ## </errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:22:22</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT r.*, (RAND()*r.udzial) AS udzial FROM arkadia_rotator r WHERE r.status=1  AND r.id_typ IN('3') AND (r.data_start='0000-00-00 00:00:00' OR r.data_start<=NOW() ) AND (r.data_stop='0000-00-00 00:00:00' OR r.data_stop>=NOW()) AND (r.img!=0 OR r.link!='') AND (r.czy_licznik=0 OR (r.czy_licznik=1 AND (r.licznik_limit=0 OR r.licznik_limit>r.licznik))) AND (r.czy_klik=0 OR (r.czy_klik=1 AND (r.klik_limit=0 OR r.klik_limit>r.klik))) AND (r.lang=0 OR r.lang='1')  ORDER BY r.priorytet DESC, r.udzial DESC, RAND() LIMIT 0,1, ## Table 'arkadia.arkadia_rotator' doesn't exist ## </errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:22:22</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT id, id_matka, tytul, tytul_menu, link, link_okno, idtf_link FROM arkadia_art WHERE id_d=1 AND poziom<2 AND typ!=3 AND menu_nie=0 AND lang='1'  AND status=1 AND (data_start<=NOW() OR data_start='0000-00-00 00:00:00') AND (data_stop>=NOW() OR data_stop='0000-00-00 00:00:00') ORDER BY id_matka, nr_poz,id DESC, ## Table 'arkadia.arkadia_art' doesn't exist ## </errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:22:22</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art WHERE idtf='r_left'  AND lang='1' AND status=1 AND (data_start<=NOW() OR data_start='0000-00-00 00:00:00') AND (data_stop>=NOW() OR data_stop='0000-00-00 00:00:00'), ## Table 'arkadia.arkadia_art' doesn't exist ## </errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:22:22</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: zap</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2270</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:22:22</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:22:22</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art WHERE idtf='r_right'  AND lang='1' AND status=1 AND (data_start<=NOW() OR data_start='0000-00-00 00:00:00') AND (data_stop>=NOW() OR data_stop='0000-00-00 00:00:00'), ## Table 'arkadia.arkadia_art' doesn't exist ## </errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:22:22</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT id, id_matka, tytul, tytul_menu, link, link_okno, idtf_link FROM arkadia_art WHERE id_d=1 AND poziom<2 AND typ!=3 AND menu_nie=0 AND lang='1'  AND status=1 AND (data_start<=NOW() OR data_start='0000-00-00 00:00:00') AND (data_stop>=NOW() OR data_stop='0000-00-00 00:00:00') ORDER BY id_matka, nr_poz,id DESC, ## Table 'arkadia.arkadia_art' doesn't exist ## </errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\klasy\class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:50:05</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>Variable passed to each() is not an array or object</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2224</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:50:06</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: pobierz_galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2198</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:50:13</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: pobierz_galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2198</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:50:13</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: val</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2218</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:50:18</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: pobierz_galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2198</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:50:18</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: val</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2218</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:50:20</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: pobierz_galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2198</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:50:20</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: val</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2218</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:50:21</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: pobierz_galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2198</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:50:21</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: val</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2218</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:50:23</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: pobierz_galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2198</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:51:09</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: pobierz_galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2198</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:51:15</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: pobierz_galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2198</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:51:20</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: pobierz_galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2198</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:51:21</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>Variable passed to each() is not an array or object</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2224</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:52:36</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>Variable passed to each() is not an array or object</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2224</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:53:19</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>Variable passed to each() is not an array or object</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2225</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:53:20</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>Variable passed to each() is not an array or object</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2225</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:53:22</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: pobierz_galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2199</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:53:25</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: pobierz_galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2199</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:53:27</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: pobierz_galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2199</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:53:27</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: val</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2219</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:53:30</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: pobierz_galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2199</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:53:32</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>Variable passed to each() is not an array or object</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2225</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:57:51</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2226</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:57:51</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: val</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2226</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:57:51</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>Variable passed to each() is not an array or object</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2232</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:57:53</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: pobierz_galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2206</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:57:53</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: val</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2226</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:57:59</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2226</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:57:59</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: val</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2226</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:57:59</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>Variable passed to each() is not an array or object</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2232</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:58:01</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: pobierz_galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2206</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:58:01</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: val</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2226</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:58:04</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2226</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:58:04</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: val</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2226</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:58:04</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>Variable passed to each() is not an array or object</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2232</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:58:56</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: pobierz_galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2206</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:58:56</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: val</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2226</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:58:59</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: pobierz_galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2206</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:58:59</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: val</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2226</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:59:00</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2226</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:59:00</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: val</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2226</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:59:00</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>Variable passed to each() is not an array or object</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2232</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:59:02</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2226</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:59:02</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: val</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2226</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:59:02</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>Variable passed to each() is not an array or object</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2232</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:59:03</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2226</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:59:03</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: val</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2226</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:59:03</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>Variable passed to each() is not an array or object</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2232</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:59:04</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: pobierz_galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2206</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 12:59:04</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: val</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2226</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 13:00:17</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: val</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2228</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 13:01:44</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2228</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 13:01:44</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>Variable passed to each() is not an array or object</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2234</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 13:01:49</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2228</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 13:01:49</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>Variable passed to each() is not an array or object</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2234</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 13:01:50</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2228</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 13:01:50</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>Variable passed to each() is not an array or object</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2234</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 13:01:51</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2228</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 13:01:51</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>Variable passed to each() is not an array or object</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2234</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 13:01:52</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2228</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 13:01:52</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>Variable passed to each() is not an array or object</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2234</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 13:02:04</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2228</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 13:02:04</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>Variable passed to each() is not an array or object</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2234</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 13:02:26</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2228</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 13:02:26</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>Variable passed to each() is not an array or object</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2234</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 13:02:38</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2228</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 13:02:38</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>Variable passed to each() is not an array or object</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2234</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 13:02:45</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2228</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 13:02:45</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>Variable passed to each() is not an array or object</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2234</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 13:02:46</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: galerie</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2228</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-09 13:02:46</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>Variable passed to each() is not an array or object</errormsg>
+	<scriptname>C:\xampp\htdocs\arkadia\mod\art\class.art.php</scriptname>
+	<scriptlinenum>2234</scriptlinenum>
+</errorentry>
+

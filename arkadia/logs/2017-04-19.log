@@ -1,0 +1,16 @@
+<errorentry>
+	<datetime>2017-04-19 15:32:54</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index:  9</errormsg>
+	<scriptname>/arkadia/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2017-04-19 23:35:01</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index:  8</errormsg>
+	<scriptname>/arkadia/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+

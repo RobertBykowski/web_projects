@@ -1,0 +1,178 @@
+
+/* formularze */
+
+
+INPUT, SELECT	{ 
+	border: 1px solid #bcbfc5; 
+	background-color: #f4f4f8; 
+	color: #000000; 
+}
+
+TEXTAREA { 
+	border: 1px solid #bcbfc5; 
+	background-color: #f4f4f8; 
+	color: #000000; 
+}
+
+.formularz2, INPUT.formularz2:focus, INPUT.formularz2:active	{ 
+	border: 1px solid #989ba1; 
+	color: #ffffff; 
+	background-color: #6a6856; 
+	background-image:url('tlo6_admin.gif');
+	background-position:top left;
+	background-repeat:repeat-x;
+}
+
+
+A, A:link, A:visited, A:active	{ color: #821507; text-decoration: none; }
+A:hover 		{ color: #FF6600; text-decoration: none; }
+
+/* ramki */
+
+.tlo1 { background-color: #93959c; }
+
+.tabelka{
+	width:100%;
+	margin-bottom:3px; 
+	border:1px solid #93959c; 
+	border-collapse:collapse;
+}
+
+.tabelka TD{
+	border-color: #93959c; 
+}
+
+/* naglowki */
+
+.tlo2	{ 
+	background-color: #50607d; 
+	background-image:url('tlo2_admin.gif');
+	background-position:top left;
+	background-repeat:repeat-x;
+	color:#f3f2f1;
+}
+
+.tlo3	{ background-color: #ffffff; }
+.tlo4	{ background-color: #efefef; }
+.over_admin	{ background-color: #ffffff; }
+.tlo5_admin	{ background-color: #354157; }
+
+.tlo6_admin	{ 
+	background-color: #38639d; 
+	background-image:url('tlo6_admin.gif');
+	background-position:top left;
+	background-repeat:repeat-x;
+	color:#ffffff;
+}
+
+.tlo7_admin { background-color: #fdfcfc; }
+.tlo8_admin	{ background-color: #e67817; }
+
+
+/* menu glowne  */
+
+.ddm1 {
+}
+
+
+.ddm1 .item1,
+.ddm1 .item1:visited,
+.ddm1 .item1:link,
+.ddm1 .item1:active,
+.ddm1 .item1-active:visited,
+.ddm1 .item1-active:active,
+.ddm1 .item1-active:link
+ {
+	display: block; 
+	font-weight:normal;
+	color:#ffffff;
+	position:relative;
+		
+  border-left: 1px solid #ffffff; 
+  border-right: 1px solid #000000; 
+		
+	background-color: #6a6856; 
+	background-image:url('tlo6_admin.gif');
+	background-position:top left;
+	background-repeat:repeat-x;
+	  
+  padding-left: 	10px;
+  padding-right: 	10px;
+  padding-top: 		6px;
+  padding-bottom: 6px;
+	line-height:100%;	
+		 
+  text-decoration : none; 
+}
+
+
+.ddm1 .item1:hover,
+.ddm1 .item1-active,
+.ddm1 .item1-active:visited,
+.ddm1 .item1-active:active,
+.ddm1 .item1-active:link,
+.ddm1 .item1-active:hover {
+	color:#000000;
+	background-color: #cacac2; 
+	background-image:url('tlo6_admin_over.gif');
+	background-position:top left;
+	background-repeat:repeat-x;	
+}
+
+
+.ddm1 .item2,
+.ddm1 .item2:visited,
+.ddm1 .item2:link,
+.ddm1 .item2:active {
+
+	display: block; 
+	color:#ffffff;
+	background-color: #494842; 	
+	width:160px; 
+	
+  text-decoration : none; 
+	
+}
+
+.item2 SPAN {
+	font-weight:normal;
+	display:block;
+	color:#ffffff;	
+	text-align:left;	
+  padding-left: 	10px;
+  padding-right: 	10px;
+  padding-top: 		4px;
+  padding-bottom: 4px;	
+	
+  border-bottom: 1px solid #ffffff; 		
+}
+
+.ddm1 .item2:hover {
+	color:#ffffff;
+	background-color: #000000; 
+}
+
+
+.item2:hover SPAN {
+	color:#ffffff;
+
+}
+
+
+.ddm1 .section {
+	padding-top:2px;	
+	text-align:left;
+  position: absolute;
+  visibility: hidden;
+  z-index: -1;
+}
+
+.ddm1 .left, .ddm1 .left:hover { border-style: solid none solid solid; }
+.ddm1 .right, .ddm1 .right:hover { border-style: solid solid solid none; }
+
+* html .ddm1 td { position: relative; } /* ie 5.0 fix */
+
+
+
+
+

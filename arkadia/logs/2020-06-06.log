@@ -1,0 +1,88 @@
+<errorentry>
+	<datetime>2020-06-06 11:37:11</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='16,)',"())..' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"())..' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-06-06 11:37:13</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='16'ZXlzzP<'">JZdBUb' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ZXlzzP<'">JZdBUb' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-06-06 11:39:42</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='16') AND EXP(~(SELECT * FROM (SELECT CONCAT(0x71716b7871,(SELECT (ELT(1335=1335,1))),0x7170717171,0x78))x)) AND ('pApI'='pApI' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND EXP(~(SELECT * FROM (SELECT CONCAT(0x71716b7871,(SELECT (ELT(1335=1335,1))' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-06-06 11:39:46</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='16' AND EXP(~(SELECT * FROM (SELECT CONCAT(0x71716b7871,(SELECT (ELT(1335=1335,1))),0x7170717171,0x78))x)) AND 'orYY'='orYY' AND status=1 ORDER BY id, ## DOUBLE value is out of range in 'exp(~((select `x`.`CONCAT(0x71716b7871,(SELECT (ELT(1335=1335,1))),0x7170717171,0x78)` from (select concat(0x71716b7871,elt((1335 = 1335),1),0x7170717171,0x78) AS `CONCAT(0x71716b7871,(SELECT (ELT(1335=1335,1))),0x7170717171,0x78)`) `x`)))' ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-06-06 11:39:47</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='16') AND EXP(~(SELECT * FROM (SELECT CONCAT(0x71716b7871,(SELECT (ELT(1335=1335,1))),0x7170717171,0x78))x)) AND ('UztN' LIKE 'UztN' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND EXP(~(SELECT * FROM (SELECT CONCAT(0x71716b7871,(SELECT (ELT(1335=1335,1))' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-06-06 11:39:51</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='16' AND EXP(~(SELECT * FROM (SELECT CONCAT(0x71716b7871,(SELECT (ELT(1335=1335,1))),0x7170717171,0x78))x)) AND 'wzSe' LIKE 'wzSe' AND status=1 ORDER BY id, ## DOUBLE value is out of range in 'exp(~((select `x`.`CONCAT(0x71716b7871,(SELECT (ELT(1335=1335,1))),0x7170717171,0x78)` from (select concat(0x71716b7871,elt((1335 = 1335),1),0x7170717171,0x78) AS `CONCAT(0x71716b7871,(SELECT (ELT(1335=1335,1))),0x7170717171,0x78)`) `x`)))' ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-06-06 11:40:51</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='16') OR EXP(~(SELECT * FROM (SELECT CONCAT(0x71716b7871,(SELECT (ELT(8918=8918,1))),0x7170717171,0x78))x)) AND ('MrdZ'='MrdZ' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR EXP(~(SELECT * FROM (SELECT CONCAT(0x71716b7871,(SELECT (ELT(8918=8918,1)))' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-06-06 11:40:55</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='16' OR EXP(~(SELECT * FROM (SELECT CONCAT(0x71716b7871,(SELECT (ELT(8918=8918,1))),0x7170717171,0x78))x)) AND 'rAVp'='rAVp' AND status=1 ORDER BY id, ## DOUBLE value is out of range in 'exp(~((select `x`.`CONCAT(0x71716b7871,(SELECT (ELT(8918=8918,1))),0x7170717171,0x78)` from (select concat(0x71716b7871,elt((8918 = 8918),1),0x7170717171,0x78) AS `CONCAT(0x71716b7871,(SELECT (ELT(8918=8918,1))),0x7170717171,0x78)`) `x`)))' ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-06-06 11:40:56</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='16') OR EXP(~(SELECT * FROM (SELECT CONCAT(0x71716b7871,(SELECT (ELT(8918=8918,1))),0x7170717171,0x78))x)) AND ('ESUl' LIKE 'ESUl' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR EXP(~(SELECT * FROM (SELECT CONCAT(0x71716b7871,(SELECT (ELT(8918=8918,1)))' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-06-06 11:41:01</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='16' OR EXP(~(SELECT * FROM (SELECT CONCAT(0x71716b7871,(SELECT (ELT(8918=8918,1))),0x7170717171,0x78))x)) AND 'gDwB' LIKE 'gDwB' AND status=1 ORDER BY id, ## DOUBLE value is out of range in 'exp(~((select `x`.`CONCAT(0x71716b7871,(SELECT (ELT(8918=8918,1))),0x7170717171,0x78)` from (select concat(0x71716b7871,elt((8918 = 8918),1),0x7170717171,0x78) AS `CONCAT(0x71716b7871,(SELECT (ELT(8918=8918,1))),0x7170717171,0x78)`) `x`)))' ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2020-06-06 16:23:55</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='15'[0]' AND status=1 ORDER BY id, ## You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[0]' AND status=1 ORDER BY id' at line 1 ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+

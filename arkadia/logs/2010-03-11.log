@@ -1,0 +1,256 @@
+<errorentry>
+	<datetime>2010-03-11 12:24:29</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>mysqli::connect() [<a href='mysqli.connect'>mysqli.connect</a>]: (28000/1045): Access denied for user 'webdevelopment20'@'localhost' (using password: YES)</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>285</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:24:29</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>, ## Access denied for user 'webdevelopment20'@'localhost' (using password: YES) ## 1045</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>297</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:24:29</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getConn: no connection BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>263</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:24:29</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:24:29</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:24:29</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch bazaSql</errormsg>
+	<scriptname>/klasy/class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:24:29</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch bazaSql</errormsg>
+	<scriptname>/klasy/class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:24:29</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch bazaSql</errormsg>
+	<scriptname>/klasy/class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:24:29</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch bazaSql</errormsg>
+	<scriptname>/klasy/class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:24:29</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getConn: no connection BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>263</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:24:29</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:24:29</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:24:29</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch bazaSql</errormsg>
+	<scriptname>/klasy/class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:24:29</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getConn: no connection BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>263</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:24:29</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:24:29</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:24:29</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: zap</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2284</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:24:29</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:24:29</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch bazaSql</errormsg>
+	<scriptname>/klasy/class.tekstform.php</scriptname>
+	<scriptlinenum>485</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:24:29</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getConn: no connection BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>263</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:24:29</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:24:29</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:24:29</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getConn: no connection BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>263</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:24:29</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:24:29</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:25:30</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_konfig WHERE (lang='1' OR lang=0) AND wartosc!='' ORDER BY lang, ## Table 'oferta_regionu2.arkadia_konfig' doesn't exist ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:25:30</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT id, id_matka, tytul, tytul_menu, link, link_okno, idtf_link FROM arkadia_art WHERE id_d=1 AND poziom<2 AND typ!=3 AND menu_nie=0 AND lang='1'  AND status=1 AND (data_start<=NOW() OR data_start='0000-00-00 00:00:00') AND (data_stop>=NOW() OR data_stop='0000-00-00 00:00:00') ORDER BY id_matka, nr_poz,id DESC, ## Table 'oferta_regionu2.arkadia_art' doesn't exist ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:25:30</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art WHERE idtf='r_left'  AND lang='1' AND status=1 AND (data_start<=NOW() OR data_start='0000-00-00 00:00:00') AND (data_stop>=NOW() OR data_stop='0000-00-00 00:00:00'), ## Table 'oferta_regionu2.arkadia_art' doesn't exist ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:25:30</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined variable: zap</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2284</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:25:30</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>getWynik: invalid or empty query result BazaSql class</errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>368</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:25:30</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art WHERE idtf='r_right'  AND lang='1' AND status=1 AND (data_start<=NOW() OR data_start='0000-00-00 00:00:00') AND (data_stop>=NOW() OR data_stop='0000-00-00 00:00:00'), ## Table 'oferta_regionu2.arkadia_art' doesn't exist ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2010-03-11 12:25:30</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT id, id_matka, tytul, tytul_menu, link, link_okno, idtf_link FROM arkadia_art WHERE id_d=1 AND poziom<2 AND typ!=3 AND menu_nie=0 AND lang='1'  AND status=1 AND (data_start<=NOW() OR data_start='0000-00-00 00:00:00') AND (data_stop>=NOW() OR data_stop='0000-00-00 00:00:00') ORDER BY id_matka, nr_poz,id DESC, ## Table 'oferta_regionu2.arkadia_art' doesn't exist ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+

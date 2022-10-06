@@ -1,0 +1,8 @@
+<errorentry>
+	<datetime>2015-12-13 21:04:58</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>Cannot modify header information - headers already sent by (output started at /arkadia/inc/konfig.php:1)</errormsg>
+	<scriptname>/arkadia/klasy/class.konf.php</scriptname>
+	<scriptlinenum>793</scriptlinenum>
+</errorentry>
+

@@ -1,0 +1,24 @@
+<errorentry>
+	<datetime>2017-05-17 11:50:57</datetime>
+	<errornum>E_WARNING</errornum>
+	<errormsg>Unknown: open(/tmp/sess_c1fabfe6a3bdb079f5c00bec80676aca, O_RDWR) failed: No such file or directory (2)</errormsg>
+	<scriptname>Unknown</scriptname>
+	<scriptlinenum>0</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2017-05-17 13:05:56</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index:  9</errormsg>
+	<scriptname>/arkadia/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2017-05-17 22:50:23</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index:  8</errormsg>
+	<scriptname>/arkadia/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+

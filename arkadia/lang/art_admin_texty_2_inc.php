@@ -1,0 +1,225 @@
+<?php
+
+if(!defined("SPR_INCLUDE")){
+  header("Location: ../index.php");
+}
+
+$texty_tab['art_admin_stat']="Statistics";
+$texty_tab['art_admin_stat_ogolne']="General information:";	
+$texty_tab['art_admin_stat_nazwa']="Name:";
+$texty_tab['art_admin_stat_ilosc']="Number:";		
+$texty_tab['art_admin_stat_ile']="Number of all elements";		
+$texty_tab['art_admin_stat_ilea']="Number of paragraphs in the articles";		
+$texty_tab['art_admin_stat_ilen']="Number of news/information items";		
+$texty_tab['art_admin_stat_ilena']="Number of paragraphs in news/information";		
+$texty_tab['art_admin_stat_ilek']="Number of comments";		
+$texty_tab['art_admin_stat_kat']="Categories of articles:";
+$texty_tab['art_admin_stat_nazwa']="Name:";
+$texty_tab['art_admin_stat_ilosc']="Number:";		
+$texty_tab['art_admin_stat_typy']="Element types:";
+$texty_tab['art_admin_stat_nazwa']="Name:";
+$texty_tab['art_admin_stat_ilosc']="Number:";		
+$texty_tab['art_admin_stat_naj']="Most frequently viewed:";		
+$texty_tab['art_admin_stat_tyt']="Title:";
+$texty_tab['art_admin_stat_wizyt']="Visits:";		
+$texty_tab['art_admin_wklej_nie']="The element can't be pasted in here";
+$texty_tab['art_admin_wklej_akcja']="Action has not been performed correctly";
+$texty_tab['art_admin_wklej_wyt']="Data ready to be moved";
+$texty_tab['art_admin_d']="Categories of elements (";
+$texty_tab['art_admin_d_nazwa']="Section name:";
+$texty_tab['art_admin_d_ilosc']="Number:";
+$texty_tab['art_admin_d_brak']="No category defined";
+$texty_tab['art_admin_arch']="List of the structure elements (";
+$texty_tab['art_admin_arch_listas']="Structure list"; 
+$texty_tab['art_admin_arch_edytujk']="edit the configuration";		   	   
+$texty_tab['art_admin_arch_nr']="number";
+$texty_tab['art_admin_arch_tyt']="title";
+$texty_tab['art_admin_arch_status']="status";		
+$texty_tab['art_admin_arch_licznik']="counter";		
+$texty_tab['art_admin_arch_pod']="sub-page";				
+$texty_tab['art_admin_arch_sglowna']="main page of the service";    
+$texty_tab['art_admin_arch_t2']="news";
+$texty_tab['art_admin_arch_t1']="text";
+$texty_tab['art_admin_arch_t0']="html";
+$texty_tab['art_admin_arch_sglowna']="main page of the service";	
+$texty_tab['art_admin_arch_data']="date";
+
+$texty_tab['art_admin_arch_awyczysc']="clear the locks of the paragraph edition";
+$texty_tab['art_admin_arch_kategorie']="structure categories";
+$texty_tab['art_admin_arch_nied']="Incorrect section of the structure";
+$texty_tab['art_admin_arch_pidtf']="Given identifier for this language version already exists, the identifier has not been saved"; 
+$texty_tab['art_admin_arch_elgrupn']="Element is a news group, it requires removal of contents before changing the type of the element!"; 
+$texty_tab['art_admin_arch_elgrupa']="Element is a news group, it requires removal of contents before changing the type of the element!";
+$texty_tab['art_admin_arch_sdodaj_log']="structure - add:";
+$texty_tab['art_admin_arch_sedycja_log']="structure - edit:";
+$texty_tab['art_admin_aka_dodaj_log']="article - add paragraph:";
+$texty_tab['art_admin_aka_edytuj_log']="article - edit paragraph:";
+$texty_tab['art_admin_aka_usun_log']="article: remove paragraphs";
+$texty_tab['art_admin_edycjatresci']="Edit contents";
+
+$texty_tab['art_admin_form_t']="Create strucutre:";  
+$texty_tab['art_admin_form_e']="Edit structure:"; 
+$texty_tab['art_admin_form_sglowna']="Home page of the service";	
+$texty_tab['art_admin_form_idtf']="Auxiliary identification";
+$texty_tab['art_admin_form_unikalny']="Unique identifier for each language version, it may only contain letters, digits or signs - and _";
+$texty_tab['art_admin_form_datastart']="First day of the display";
+$texty_tab['art_admin_form_dataw']="Date due, show till day";
+$texty_tab['art_admin_form_tytul']="Title*:";
+$texty_tab['art_admin_form_tytulz']="Supplementary menu title:";
+$texty_tab['art_admin_form_linkz']="Link replacing menu element:";
+$texty_tab['art_admin_form_oknol']="Window, in which the link opens";
+$texty_tab['art_admin_form_noweo']="- new window ,";
+$texty_tab['art_admin_form_tosamoo']="- the same window";
+$texty_tab['art_admin_form_zajawka']="First words/sentences of the content:";
+$texty_tab['art_admin_form_dzial']="Section, attribution to menu:";
+$texty_tab['art_admin_form_typz']="Type of contents*:";
+$texty_tab['art_admin_form_ilosc']="Number of paragraphs/elements on the sub-page (paging):";
+$texty_tab['art_admin_form_iloscbez']="0 - no paging";
+$texty_tab['art_admin_form_licznik']="State of the counter of the page impressions";
+$texty_tab['art_admin_form_koment']="Users can add comments";
+$texty_tab['art_admin_form_rss']="RSS channel";
+$texty_tab['art_admin_form_menunie']="Don't place in menu";
+$texty_tab['art_admin_form_menuwyr']="Display in menu";
+$texty_tab['art_admin_form_dostep']="Type of access to element";
+$texty_tab['art_admin_form_dogory']="Add scrolling up link";
+$texty_tab['art_admin_form_listas']="Structure elements list";
+$texty_tab['art_admin_form_statnie']="Nie doklejaj kodu statystyk do postrony";
+
+$texty_tab['art_admin_form_datawys']="Information time";
+$texty_tab['art_admin_form_podtytul']="Subtitle";
+
+$texty_tab['art_admin_form_wytworzyl']="Information created by:";
+$texty_tab['art_admin_form_wytworzylkiedy']="Time created (YYYY-MM-DD)";
+
+$texty_tab['art_admin_form_zajawkai']="picture to be shown with the heading:";
+$texty_tab['art_admin_form_grafika']="graphic file:";
+
+$texty_tab['art_admin_form_submenu']="Submenu";
+$texty_tab['art_submenu0']="sub-elements";
+$texty_tab['art_submenu1']="coordinate elements";
+$texty_tab['art_submenu2']="dont't show submenu";
+
+$texty_tab['art_admin_form_hidtf']="Identifier used for getting content from outside the standard menu or when there is a special task attributed to the item which distinguishes it from the other. Otherwise no function";
+$texty_tab['art_admin_form_htytulz']="Fill in to give the item a different name in the menu, usually shorter than the main title used in the content of the sub-page";		
+$texty_tab['art_admin_form_hlink']="It replaces the item in the menu with a link - a re-direction to other part of the www or to a fully independent outside part of the www page";
+$texty_tab['art_admin_form_hzajawka']="Used for creating article announcements or a menu describing the page content";			
+$texty_tab['art_admin_form_htypz']="Standard page is HTML type, pages with no editor only for special uses. Choosing the type news, information shows the content as a set of information sorted by date with no possibility to go further down in the www structure";
+$texty_tab['art_admin_form_hilosc']="Division of a longer text into numbered portions - paging. Recommended especially for items such as news, information";
+$texty_tab['art_admin_form_hlicznik']="How many times the www content has been shown; does not include the number of times shown from the account of the logged-in administrator.";
+$texty_tab['art_admin_form_hdostep']="Determines to whom the content of the element is available: <br /> <b>general</b> - meaning available to all www users , <b>for logged-in</b> - only for those who have a www account and ahve successfully logged-in,<br /> <b>permission</b> - only for logged-in users having a special permission,<br /> <b>special</b> - element used is a special manner with no access through a direct link";
+$texty_tab['art_admin_form_hrss']="Items to be found within the current item (sub-pages or news/information) will be used as information in the form of a RSS channel";
+$texty_tab['art_admin_form_hmenunie']="Item wil now be displayed directly in the menu. Using this option depends on the project.";
+$texty_tab['art_admin_form_hmenuwyr']="Item will be displayed in the menu - e.g. other background colour. Manner uf using depends on the type of project.";
+$texty_tab['art_admin_form_hdogory']="A link gets placed at the end of the text; it allows to scroll the www up to the front of the text. Useful for long texts.";
+$texty_tab['art_admin_form_himg']="JPG file meeting the size requirements. Caution, JPG files in CMYK colour palette are rejected. WWW pages only operate under  RGB palette";																							
+$texty_tab['art_admin_form_hstatnie']="Powoduje, że dana strona nie będzie uzgledniana w zewnętrznych systemach statystyk, jeśli są one zdefiniowane.";
+
+$texty_tab['art_admin_form_description']="Page description for search engines";
+$texty_tab['art_admin_form_hdescription']="Short (2-3 sentences) description of the sub-page for search engines. If empty, the default description from the configuration is used.";
+$texty_tab['art_admin_form_keywords']="Keywords for search engines";
+$texty_tab['art_admin_form_title']="Title for search engines";
+$texty_tab['art_admin_form_hkeywords']="Group of chosen words - entries, phrases devided by commas characterising the www service. Not more than 20-30 entries. If empty, the default set of words from the configuration is used.";
+
+$texty_tab['art_admin_aform_t']="Create new paragraph:";
+$texty_tab['art_admin_aform_e']="Edit paragraph:";
+$texty_tab['art_admin_aform_tytul']="Paragraph subtitle:";
+$texty_tab['art_admin_aform_tresc']="content:";
+$texty_tab['art_admin_aform_wstawg']="Inserts bold text";
+$texty_tab['art_admin_aform_wstawp']="Inserts text in italics";
+$texty_tab['art_admin_aform_pogrubiony']="insert bold text";
+$texty_tab['art_admin_aform_pochyly']="insert text in italics";
+$texty_tab['art_admin_aform_wyrownanie']="text align";
+$texty_tab['art_admin_aform_pozostaw']="retain the original html in text (don't format, don't remove)";
+$texty_tab['art_admin_aform_gjpg']="JPG file:";
+$texty_tab['art_admin_aform_opisg']="graphic file description, alternative text:";
+$texty_tab['art_admin_aform_linkg']="link on the picture:";
+$texty_tab['art_admin_aform_oknog']="window in which the link opens";
+$texty_tab['art_admin_aform_noweo']="- new window ,";
+$texty_tab['art_admin_aform_tosamo']="- same window";
+$texty_tab['art_admin_aform_nieskaluj']="don't scale";
+$texty_tab['art_admin_aform_px']="px";
+$texty_tab['art_admin_aform_przeskaluj']="rescale the new picture file to desired size";
+$texty_tab['art_admin_aform_polozenieg']="picture in relation to text";
+$texty_tab['art_admin_aform_katalog']="catalogue with picture gallery:";
+$texty_tab['art_admin_aform_listael']="Structure elements list";
+$texty_tab['art_admin_a_usuwanie_log']="articles - removal";	
+$texty_tab['art_admin_a_glowny_log']="Setting the main item";
+$texty_tab['art_admin_a_nieel']="Incorrect element!"; 
+$texty_tab['art_admin_a_param_log']="change the strucutre parameters";
+$texty_tab['art_admin_a_wykonana']="Action has been performed"; 
+$texty_tab['art_admin_a_brak']="No data"; 
+$texty_tab['art_admin_a_blok']="Articles edition locks have been removed";
+$texty_tab['art_admin_a_blok_log']="articles - remove the locks";	
+$texty_tab['art_admin_konfig_form']="Edit details - configuration of the item";
+$texty_tab['art_admin_form_mapanie']="Don't place in the sitemap";
+$texty_tab['art_admin_form_hmapanie']="Option relevant when the www service has a sitemap function";		
+$texty_tab['art_admin_form_tytulnie']="Don't display the title of the sub-page/article";
+$texty_tab['art_admin_form_htytulnie']="Used when the title given to the element is not supposed to be displayed above the text. Doesn't apply when the element is redirected to a different link or when the title is used in a non-standard manner";
+$texty_tab['art_admin_form_stopkanie']="Don't display the article footing";
+$texty_tab['art_admin_form_hstopkanie']="Articles can have a footing with links for print-out, with information about date editing, authors and the like. Choosing this option turns off the page footing display for the selected item or limits its content";
+$texty_tab['art_admin_form_idtflink']="Item identification in a search-engine-friendly manner";	
+$texty_tab['art_admin_form_hidtflink']="Allows to create article links in a search-engine-friendly manner, containing keywords or relevant phrases. Attention - the identifier musn't contain any special or national characters, and the space sign has to be replaced with an underline or a dash";
+$texty_tab['art_admin_form_idtflinkh']="Only digits, szmbol - and standard letters (no national characters)";
+$texty_tab['art_admin_form_glowny']="Set as default page";
+$texty_tab['art_admin_form_hglowny']="Used depending on the project. It sets a chosen sub-page to be the default one for the whole www or a chosen section";		
+	
+$texty_tab['art_admin_form_gwt']="picture in relation to text";
+$texty_tab['art_admin_form_zrodlo']="source of information:";
+$texty_tab['art_admin_form_hzrodlo']="Please give the source of the information when copyright to the published information needs to be specified.";			
+	
+$texty_tab['art_admin_akapity_edytujk']="Edit paragraph configuration";
+$texty_tab['art_admin_akapity_kramka']="Frame width:";
+$texty_tab['art_admin_akapity_kramkah']="Width of the paragraph frame in pixels. 0 means no frame.";	
+$texty_tab['art_admin_akapity_ksser']="Paragraph width:";
+$texty_tab['art_admin_akapity_kszerh']="Paragraph width as percentage of the whole available width. 0 or 100 means the whole available width.";			
+$texty_tab['art_admin_akapity_kmargines']="Margin:";
+$texty_tab['art_admin_akapity_kmarginesh']="Margin around the text in pixels";			
+$texty_tab['art_admin_akapity_kramkak']="Frame colour:";
+$texty_tab['art_admin_akapity_kramkakh']="Frame colour. No colour set means no frame";	
+$texty_tab['art_admin_akapity_ktlo']="Background colour:";
+$texty_tab['art_admin_akapity_ktloh']="Colour of the paragraph background. No colour set means no background";	
+$texty_tab['art_admin_akapity_kgalw']="Number of pictures in a line:";
+$texty_tab['art_admin_akapity_kgalwh']="Division into lines depends on the project and the chosen gallery type. 0 means a default number of pictures in a line.";
+$texty_tab['art_admin_akapity_kgalh']="Number of lines in a subpage:";
+$texty_tab['art_admin_akapity_kgalhh']="The division of the gallery into subpages depends on the project and chosen galery type. 0 means no paging or default paging";
+$texty_tab['art_admin_akapity_kgalt']="Picture gallery type:";
+$texty_tab['art_admin_akapity_kgalth']="Type of picture display, dependent on the project.";
+$texty_tab['art_admin_akapity_kpowrot']="Back to preview";
+$texty_tab['art_admin_akapity_klog']="Edit paragraph configuration ";
+
+$texty_tab['art_admin_akapity_sgalt']="Type of thumbnail scaling";					
+$texty_tab['art_admin_akapity_galw']="Thumbnail width:";			
+$texty_tab['art_admin_akapity_wgalh']="Zero stands for default value. Use of the parameter depends on the project and type of scaling";									
+$texty_tab['art_admin_akapity_galh']="Thumbnail height:";			
+$texty_tab['art_admin_akapity_zalezne']="gallery lines dependent";
+$texty_tab['art_admin_akapity_zalezneh']="When this option is chosen, the gallery creates one table and the pictures are placed evenly in all columns";				
+
+$texty_tab['artadmin_gal_eplik']="Edit graphic file";	 				
+$texty_tab['art_admin_gal_kobrot']="Gallery rotate picture";
+$texty_tab['artadmin_galf_pkonfig']="Edit graphic file";
+$texty_tab['art_admin_form_idtflinkh']="Subtitle";
+$texty_tab['art_admin_gal_param_log']="Galleries paragraph edit";
+$texty_tab['art_admin_galeria_usun_log']="Galleries remove pictures";
+$texty_tab['art_galerie_edytujk']="Edit picture parameters";
+$texty_tab['artadmin_galeria']="Picture gallery";
+$texty_tab['artadmin_gal_nr']="No.";
+$texty_tab['artadmin_gal_zdjecie']="Picture";
+$texty_tab['artadmin_gal_param']="Parameters";		
+$texty_tab['artadmin_gal_wysokosc']="height";		
+$texty_tab['artadmin_gal_szerokosc']="width";	
+$texty_tab['artadmin_gal_px']="px";	
+$texty_tab['artadmin_gal_status']="Status";		
+$texty_tab['artadmin_gal_wys']="Height";		
+$texty_tab['artadmin_gal_glosow']="Votes";		
+$texty_tab['artadmin_gal_ocen']="Retings";					
+$texty_tab['artadmin_gal_obrobka']="go to edit";
+$texty_tab['artadmin_gal_powrot']="Back to article";
+$texty_tab['artadmin_galf_dodawanie']="Add a picture to the gallery";
+$texty_tab['artadmin_galf_edycja']="Edit picture in a gallery";
+$texty_tab['artadmin_galf_powrot']="Back to gallery";
+
+$texty_tab['art_admin_gal_kedycja']="Gallery edit picture configuration";
+$texty_tab['art_admin_gal_dodaniek']="Gallery - add picture";
+$texty_tab['art_admin_gal_edycjak']="Gallery edit picture";
+
+?>

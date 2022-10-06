@@ -1,0 +1,24 @@
+<errorentry>
+	<datetime>2019-08-09 04:08:57</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined offset: 10</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2019-08-09 12:45:19</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index: 4/favicon.ico</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2019-08-09 14:33:18</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined offset: 10</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+

@@ -1,0 +1,16 @@
+<errorentry>
+	<datetime>2018-02-01 06:53:23</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19' and char(124)+user+char(124)=0 and ''='' AND status=1 ORDER BY id, ## Unknown column 'user' in 'where clause' ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2018-02-01 07:03:23</datetime>
+	<errornum>E_USER_ERROR</errornum>
+	<errormsg>SELECT * FROM arkadia_art_akapity WHERE id_matka='19' and char(124)+user+char(124)=0 and '%'='' AND status=1 ORDER BY id, ## Unknown column 'user' in 'where clause' ## </errormsg>
+	<scriptname>/klasy/class.bazasql.php</scriptname>
+	<scriptlinenum>390</scriptlinenum>
+</errorentry>
+

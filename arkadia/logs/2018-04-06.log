@@ -1,0 +1,56 @@
+<errorentry>
+	<datetime>2018-04-06 12:33:43</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index:  482</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2018-04-06 12:42:02</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index:  864</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2018-04-06 12:47:23</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index:  664</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2018-04-06 13:32:26</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index:  876</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2018-04-06 13:34:00</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index:  828</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2018-04-06 13:41:31</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index:  606</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2018-04-06 13:50:09</datetime>
+	<errornum>E_NOTICE</errornum>
+	<errormsg>Undefined index:  510</errormsg>
+	<scriptname>/mod/art/class.art.php</scriptname>
+	<scriptlinenum>2230</scriptlinenum>
+</errorentry>
+
